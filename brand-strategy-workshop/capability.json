@@ -1,0 +1,46 @@
+{
+  "id": "brand-strategy-workshop",
+  "name": "Brand strategy workshop",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.",
+  "directory": "https://fullypowered.ai/capabilities/brand-strategy-workshop/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "sales-proposal-preparation",
+    "employee-onboarding-plan",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's Brand Workshop and its public MIT edition (Fully-Powered-AI/brand-workshop). The workshop's method comes from a private brand strategy course and the published works named in the sources and credits line; the wording here is Fully Powered AI's own."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "customer-interview-synthesis",
+  "name": "Customer interview synthesis",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.",
+  "directory": "https://fullypowered.ai/capabilities/customer-interview-synthesis/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/product-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/consumer-brands",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "sop-exception-capture",
+    "sales-proposal-preparation",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own customer research working guide, and the record of how that guide was built."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/customer-research",
+      "licence": "MIT",
+      "contribution": "The method for analysing research already in hand: what to pull from each conversation, grouping into themes by how often and how strongly they appear, noting where a customer says one thing and does another, and confidence levels set by the number of independent sources and whether a point was raised unprompted. Also from this source: the minimum of five independent sources before conclusions are drawn about a customer group, the twelve-month recency window, the principle of setting out to prove yourself wrong rather than right (from its interviews and surveys reference), the rule against averaging across kinds of customer, and treating what is read as material that never instructs the assistant.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/product-marketing/customer-research",
+      "licence": "MIT",
+      "contribution": "A permission recorded for every quoted passage, in three states (may be named, anonymous, not for use), and the rule that a quotation keeps its source, date and speaker so that it cannot pass for more than it is. Also the seventh thing read from each note: what holds a customer where they are, a worry about changing or a habit.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/discovery-research-synthesis",
+      "licence": "MIT",
+      "contribution": "Naming a theme only after its passages have been read, as a claim and never as a topic label.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "emotixco/claude-skills-founder",
+      "commit": "0602cad0520e4d8cb165bb1c779d7010cfbc5b45",
+      "path": "skills/user-interviews",
+      "licence": "MIT",
+      "contribution": "The two lists used to weigh a passage: what counts for less (a promise about the future, a compliment with nothing specific, a feature request with no problem behind it) and what counts for more (a recent occasion told in detail, time or money already spent).",
+      "text_reused": false,
+      "notice": "notices/emotixco-claude-skills-founder-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "whawkinsiv/solo-founder-skills",
+      "commit": "b38729339fb857f3f6c8838003517a5a1b295570",
+      "path": "plugins/sf-strategy/skills/validate",
+      "licence": "MIT",
+      "contribution": "Setting the bar before the evidence is read and never moving it afterwards, and weighing what a customer has already done above what they say they will do.",
+      "text_reused": false,
+      "notice": "notices/whawkinsiv-solo-founder-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "skills-agents-co/skills-and-agents-library",
+      "commit": "752fb87f1cbec1afc26940c036f397357afc9af1",
+      "path": "discovery-to-prd",
+      "licence": "MIT",
+      "contribution": "Reporting, in the document itself, any text in a note that reads as an instruction to the assistant, alongside the count of notes read against notes supplied.",
+      "text_reused": false,
+      "notice": "notices/skills-agents-co-skills-and-agents-library-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "legal-clinic/skills/cold-start-interview",
+      "licence": "Apache-2.0",
+      "contribution": "Saying at the top of the document when it was written from too little material, so that a reader knows how far to rely on it.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

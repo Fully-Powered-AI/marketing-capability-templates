@@ -4,12 +4,28 @@
   "term": "functions/marketing-and-content",
   "capabilities": [
     {
+      "id": "brand-strategy-workshop",
+      "name": "Brand strategy workshop",
+      "version": "0.1.0",
+      "summary": "Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.",
+      "path": "brand-strategy-workshop/",
+      "directory": "https://fullypowered.ai/capabilities/brand-strategy-workshop/"
+    },
+    {
       "id": "competitor-profile-from-public-pages",
       "name": "Competitor profile from public pages",
       "version": "0.1.0",
       "summary": "Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.",
       "path": "competitor-profile-from-public-pages/",
       "directory": "https://fullypowered.ai/capabilities/competitor-profile-from-public-pages/"
+    },
+    {
+      "id": "customer-interview-synthesis",
+      "name": "Customer interview synthesis",
+      "version": "0.1.0",
+      "summary": "Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.",
+      "path": "customer-interview-synthesis/",
+      "directory": "https://fullypowered.ai/capabilities/customer-interview-synthesis/"
     },
     {
       "id": "recorded-sessions-into-articles",

@@ -2,11 +2,13 @@
 
 A marketing team of three that ships like a team of thirty. These capability templates take the research, strategy and content work behind good marketing and give an AI assistant a precise way to prepare it, with every claim traced to something you can support and a person approving what the market sees.
 
-This repository holds 2 capability templates for marketing teams and the owners who do their own marketing. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 4 capability templates for marketing teams and the owners who do their own marketing. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
+- **[Brand strategy workshop](brand-strategy-workshop/)**: Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.
 - **[Competitor profile from public pages](competitor-profile-from-public-pages/)**: Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.
+- **[Customer interview synthesis](customer-interview-synthesis/)**: Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.
 - **[Recorded sessions into articles](recorded-sessions-into-articles/)**: A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.
 
 ## How to use one
