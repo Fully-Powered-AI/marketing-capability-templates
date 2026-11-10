@@ -59,7 +59,7 @@
       "commit": "b38729339fb857f3f6c8838003517a5a1b295570",
       "path": "plugins/sf-strategy/skills/validate/SKILL.md",
       "licence": "MIT",
-      "contribution": "Answering three demand questions (drawn from the pressure test in this SKILL.md and the questions in the same folder's references/pressure-test-questions.md) and marking each answer by the strength of its evidence; treating an answer with no evidence as a gap that a test must close; and setting the bar for a test before the result is seen, never moving it afterwards.",
+      "contribution": "Answering three demand questions (drawn from the pressure test in that file and the questions in the same folder's references/pressure-test-questions.md) and marking each answer by the strength of its evidence; treating an answer with no evidence as a gap that a test must close; and setting the bar for a test before the result is seen, never moving it afterwards.",
       "text_reused": false,
       "notice": "notices/whawkinsiv-solo-founder-skills-LICENSE.txt"
     }
