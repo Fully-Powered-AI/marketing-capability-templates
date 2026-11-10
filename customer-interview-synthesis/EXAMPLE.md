@@ -25,6 +25,7 @@ Permission: asked at the close of each call. "Anonymous" means the words
   may be quoted without the person or the studio. Not asked means not for use.
 Minimum for a finding: five independent studios.
 Prepared for: the product lead. Approves any public use: the marketing lead.
+Date of the synthesis: 26 October 2026.
 ```
 
 ### The six call notes
@@ -134,13 +135,13 @@ Do studio owners describe working out instructor pay as a problem they would pay
 
 **In short**
 
-Owners do not describe working out pay as the problem: three of five studios say pay goes wrong when a swap or cover class is never recorded, and the sums are a heavy job only at the two studios with tiered rates.
+Owners do not describe working out pay as the problem: three of five studios say pay goes wrong when a swap or cover class is never recorded, and the sums are a heavy job only at the two studios whose rates change with the class.
 
 - Confidence: Medium (the lowest among themes 1 and 2; theme 1 is High, theme 2 is Medium).
 - The bar for calling the belief wrong: reached.
-  - Fewer than three of the independent studios describe working out pay, unprompted, as costing them time or money: 2 of 5 independent studios, both owners (A and C); 2 unprompted. Reached.
+  - Fewer than three of the independent studios describe working out pay, unprompted, as costing them time or money: 2 of 5 independent studios, both owners (A and C); 2 unprompted. Reached. Counting took judgement, and the result depends on it. Studio C is counted on the freelancer it paid; its passage about pay day states no hours and no sum. Studio D is not counted: its "most of a Sunday" went on finding out who taught, not on working out pay. Studio E is not counted: it names what its accountant costs and calls that fine. Counting D or E would make 3 of 5, and this condition would not be reached.
   - Two or more say their current way of working out pay is fine: 3 of 5 independent studios, a studio manager (B) and two owners (D and E); 2 unprompted (B and E), 1 when asked (D). Reached.
-  - The conditions are joined by "or", so either would have been enough.
+  - The conditions are joined by "or", so either would have been enough. The second is reached however Studio D is counted, so the bar is reached whichever way the first is read.
 - The belief: Disputed (the bar for calling it wrong was reached).
 
 **Coverage**
@@ -156,7 +157,7 @@ Owners do not describe working out pay as the problem: three of five studios say
 
 **1. Pay goes wrong when a swap or cover class is never recorded, not when the sums are done.**
 
-- Reading (ours, not the customers'): three studios raised it before pay was mentioned. The cost they describe is a wrong payslip and an awkward conversation.
+- Reading (ours, not the customers'): three studios raised it without being asked about swaps or cover. The cost they describe is a wrong payslip and an awkward conversation.
 - In their words:
   - "The bad part is cover. When someone swaps a class by text the system still shows the old name, and I only find out when the wrong person gets paid." (studio manager, pilates studio; N2, 8 October 2026; anonymous; unprompted)
   - "Swaps are what kill me. The rota says one thing, the group chat says another, and pay follows the rota." (owner, climbing and fitness studio; N4, 15 October 2026; anonymous; unprompted)
@@ -181,7 +182,7 @@ Owners do not describe working out pay as the problem: three of five studios say
   - "The sums are fine once I know who taught. It's knowing who taught." (owner, climbing and fitness studio; N4, 15 October 2026; anonymous; asked: "And working out the pay itself?")
   - "Month end is fine. My accountant runs pay from the class export, costs me forty dollars a month, I never think about it." (owner, dance and barre studio; N6, 20 October 2026; anonymous; unprompted)
 - Says one thing, does another: "Oh, for sure. Put me down for one." (studio manager, pilates studio; N2, 8 October 2026; anonymous; asked: "A tool that worked out pay for you would save you time, wouldn't it?"). The same note's summary records that the studio has tried nothing and said it would not be worth paying for. Not counted as support: it is a promise about the future and an agreement to a question that offered the answer.
-- Confidence: Medium (only two sources, Studios A and C, both unprompted; both have tiered rates).
+- Confidence: Medium (only two sources, Studios A and C, both unprompted; both have rates that change with the class).
 - Bears on: the belief. It holds for two studios of five, not for owners in general.
 
 **3. Owners want to stay the person who approves.**
@@ -213,7 +214,7 @@ Owners do not describe working out pay as the problem: three of five studios say
 
 **Leads (not findings)**
 
-1. Owners cannot see which classes lose money after instructor pay. One independent studio. "What I can't see is which classes lose money once I've paid the instructor. I'd pay for that tomorrow." (owner, dance and barre studio; N6, 20 October 2026; anonymous; unprompted). "I'd pay for that tomorrow" is a promise about the future and counts for less. It would become a finding if two more studios described, unprompted, a time they needed that figure and could not get it.
+1. Owners cannot see which classes lose money after instructor pay. One independent studio. "What I can't see is which classes lose money once I've paid the instructor. I'd pay for that tomorrow." (owner, dance and barre studio; N6, 20 October 2026; anonymous; unprompted). "I'd pay for that tomorrow" is a promise about the future: shown, not counted. It would become a finding if two more studios described, unprompted, a time they needed that figure and could not get it.
 
 **Still unknown**
 

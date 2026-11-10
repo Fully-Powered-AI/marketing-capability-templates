@@ -194,3 +194,15 @@ The first run, on the instructions as first written, produced the same subject, 
 - The stop conditions were not exercised: the recording notice was confirmed, the expert's label was given, and sessions fell inside the dates.
 - The claims rule and the existing-articles rule had nothing to act on: no claim needed leaving out, and no subject repeated the existing article.
 - Nobody with the expert's knowledge reviewed the draft, so the reviewer checklist items that belong to the expert were not answered. The three that belong to the person who ran it (each quotation inside one expert line; no listed name, employer or client; the invitation matches the settings) were checked and hold.
+
+## Edits after the recorded run
+
+9 November 2026. The template was edited after the run recorded above, following its editorial review. It was not run again, so the output above came from the instructions as they stood before these edits. What changed in the instruction block:
+
+- **The dates to cover.** If none are given, the block now gives the default the procedure already stated: the last [30] days, or the day after the previous run ended, said on the review sheet.
+- **The "Partial:" line.** The block now says when to add it: a notes-only session, a blank setting, or a check that could not be made. The output format already carried the line.
+- **A participant's statement that is not a question.** What a participant said about their own attempt at the exercise may be paraphrased as the mistake the room made, only when nothing in it identifies them. This closes the first point under "Where the instructions still leave room to guess".
+- **What counts as a result.** The expert's remark on how a participant's attempt at the exercise went is teaching and may be paraphrased; a claim about what the expert's work earns, saves or cures is a result wherever it is said. This closes the second point.
+- **Three to six key lines.** The limit counts the numbered key lines only, not a quotation elsewhere in the article.
+
+The output format was not changed. In the example, the review sheet's summary now calls the share of lines an estimate, and the invented employer a participant mentions was renamed so that it does not resemble a company in another template's example; the name appears in the transcript only and in none of the output.

@@ -212,6 +212,14 @@ Where the instructions were unclear, or a guess was needed, in this run:
 
 Nothing was changed after this run. The five points above are left as they are.
 
+Edited after the recorded run, 9 November 2026, following the independent review. The template was not run again, and the output and observations above are left as recorded.
+
+1. In the instructions, the third thing read from each note, "what made them look for something better", now reads "the event that started them looking", and the habit in the seventh, "a habit that makes the present way easy to keep", now reads "a habit that suits them as things are". Both were reworded so that neither follows a source's wording; the rules did not change. One over-long line in the instructions was re-wrapped. Where this record quotes the earlier wording, it is the wording the run was given.
+2. Outside the instructions, the template's sentence that the business reference "appears only under Sources" now says it is left out of citations, which is what the output format and the example do. The contrast between a topic and a theme, and the invented instruction in the seventh acceptance test, were reworded.
+3. The example's inputs gained a line giving the date of the synthesis, 26 October 2026. The run was given the inputs without that line and 9 November 2026 as the date, which is why its header carries a different date from the example's; that difference is not in the list above.
+4. The example's first condition of the bar gained the note on judgement that the instructions ask for: which studios were and were not counted, and that counting Studio D or E would change the result. When the run was compared with it, the example had two lines for the conditions and no such note.
+5. Four wordings in the example's synthesis were corrected: the two studios' rates are described as changing with the class where "tiered" was stated as fact for both, theme 1's reading says the three studios raised it "without being asked about swaps or cover", and the promise in the lead is "shown, not counted". The example's verdict, themes, counts and confidence levels are unchanged.
+
 ## What the earlier runs found, and what was changed
 
 After the first run, on the first draft:

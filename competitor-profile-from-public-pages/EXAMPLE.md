@@ -84,7 +84,7 @@ Read: 9 November 2026 · Pages saved: 3 November 2026 · Depth: quick · Homepag
 
 **In short.** Inferred: Corvane sells self-service payroll software to owners of small restaurants, cafes and bars, priced per employee, with “Free for 30 days” as the way in. Beside your facts: a different kind of offer, software the owner runs where you sell a service a named specialist runs.
 
-**Coverage.** Pages at this depth: 3, read 3. Unread: none. Not opened at this depth: Product and Log in, both in the homepage navigation. Sections with no mention found: where they show up. Unavailable: headcount; the price of assisted setup; any setup fee. From memory: none. Text addressed to an AI reader: 1, listed under Pages read.
+**Coverage.** Pages at this depth: 3, read 3. Unread: none. Not opened at this depth: Product and Log in, both in the homepage navigation. Sections with no mention found: where they show up. Unavailable: headcount; the price of assisted setup; any setup fee. From memory: 0. Text addressed to an AI reader: 1, listed under Pages read.
 
 **At a glance**
 
@@ -130,12 +130,10 @@ Read: 9 November 2026 · Pages saved: 3 November 2026 · Depth: quick · Homepag
 
 **Strengths and gaps, beside your facts**
 
-Each line is a hypothesis.
-
-- Strength: a buyer can start alone, today, free, with no card (pricing). Your facts name no trial.
-- Strength: the price is visible per employee and small at first sight (pricing). Yours is a flat \$240 per location.
-- Gap: no page read names a person who runs or checks the pay run; the homepage headline says payroll “runs itself”. Beside it, their strength on the same point: an owner who wants no calls may count that as the benefit.
-- Gap: the proof shown is a count and one quotation with no name (homepage). Beside it, their strength: “400+” is a bigger number than three stories, whatever stands behind it.
+- Strength (hypothesis): a buyer can start alone, today, free, with no card (pricing) beside “How we charge: a flat \$240 per location per month. No setup fee.” Your facts name no trial.
+- Strength (hypothesis): the price is visible per employee and small at first sight (pricing) beside “a flat \$240 per location per month”.
+- Gap (hypothesis): no page read names a person who runs or checks the pay run; the homepage headline says payroll “runs itself” (homepage, pricing, about). Their strength on the same point: an owner who wants no calls may count that as the benefit.
+- Gap (hypothesis): the proof shown is a count and one quotation with no name (homepage). Their strength on the same point: “400+” is a bigger number than three stories, whatever stands behind it.
 
 **Questions for you**
 

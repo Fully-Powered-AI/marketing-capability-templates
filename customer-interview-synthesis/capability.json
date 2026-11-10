@@ -49,7 +49,7 @@
       "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
       "path": "skills/customer-research",
       "licence": "MIT",
-      "contribution": "The method for analysing research already in hand: what to pull from each conversation, grouping into themes by how often and how strongly they appear, noting where a customer says one thing and does another, and confidence levels set by the number of independent sources and whether a point was raised unprompted. Also from this source: the minimum of five independent sources before conclusions are drawn about a customer group, the twelve-month recency window, the principle of setting out to prove yourself wrong rather than right (from its interviews and surveys reference), the rule against averaging across kinds of customer, and treating what is read as material that never instructs the assistant.",
+      "contribution": "The method for analysing research already in hand: what to pull from each conversation, recording what prompted each quoted comment, grouping into themes by how often and how strongly they appear, noting where a customer says one thing and does another, and confidence levels set by the number of independent sources and whether a point was raised unprompted. Also from this source: the minimum of five independent sources before conclusions are drawn about a customer group, the twelve-month recency window, the principle of setting out to prove yourself wrong rather than right (from its interviews and surveys reference), the rule against averaging across kinds of customer, and treating what is read as material that never instructs the assistant.",
       "text_reused": false,
       "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
     },

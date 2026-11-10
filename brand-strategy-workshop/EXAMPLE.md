@@ -2,7 +2,9 @@
 
 *Illustrative example with invented data.* Harrowmere Bikes, its people, its customers, its competitor and the city of Calder Point are all invented. This page gives the inputs the owner supplied, in full, then everything the owner said during the session, then the three documents that came out: the brand strategy, the choices record and the validation kit.
 
-Nothing in the documents is stated about the company, or about the session, unless it is in the inputs or in the owner's replies below. Where the owner did not know, the documents say TBD. Two kinds of line are the assistant's drafting and are labelled as such: the options it offered, and Nell, the model buyer, who is invented.
+Nothing in the documents is stated about the company, or about the session, unless it is in the inputs or in the owner's replies below. Where the owner did not know, the documents say TBD. Three kinds of line are the assistant's drafting and not fact, and are labelled as such: the options it offered, the trait and voice sentences and the lines in use, which the owner chose or confirmed, and Nell, the model buyer, who is invented. The audience circles are the assistant's draft as the owner confirmed and corrected them.
+
+In the brand strategy, "Awaiting the owner" covers only drafts not yet confirmed and questions still open, so it reads "Nothing" and the Status reads "Complete". The handover note at the end still lists two things for the owner to do next.
 
 ## The inputs the owner supplied
 

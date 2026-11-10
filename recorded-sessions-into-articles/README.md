@@ -19,7 +19,7 @@ The expert reviews every draft and is the only person who publishes.
 ## What they supply
 
 - **Transcripts of the sessions.** Any transcript will do: a meeting recorder, a video platform’s captions, a transcription service or a typed record. Each needs its date and title. Notes alone are enough to find the subjects, though not to quote you.
-- **A one-page settings sheet.** Your published name and field, which speaker is you, your tone and the words you never use, article length, your closing invitation, and how many articles you want from each run.
+- **A one-page settings sheet.** Your published name and field, how a session recording is recognised, which speaker is you, your tone and the words you never use, your categories, article length, the articles you have already published, your closing invitation, and how many articles you want from each run.
 - **The privacy list.** The people who are never named, in every form their name could take, whether a question may be reported as “a participant asked”, and confirmation that participants were told the session was recorded. It can sit on the settings sheet.
 - **The dates to cover.** Which sessions count this time, with today’s date and who is running it.
 
@@ -51,7 +51,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, in two runs; the record of the second is published with it and lists the small edits made afterwards. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on sessions you remember well, with hard cases chosen in advance: a session with notes and no transcript, a line where you said a participant’s name, a recording where the speakers are mixed up. You check every quotation against the transcript and every page for anyone who could be recognised. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 

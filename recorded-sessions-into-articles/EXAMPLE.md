@@ -49,7 +49,7 @@ Odalys: Name the decision before you open the discussion. If you cannot say what
 Speaker 2: What if the point of the meeting is just to share updates?
 Odalys: Then it is not a decision meeting, and you say so. An update is a broadcast. Send it in writing and give people the half hour back.
 Odalys: One decision, one owner. The owner is the person who will be asked about it in a month, not the most senior person in the room.
-Speaker 3: At Quillhaven Freight we have eleven people in our Monday meeting, and my director talks over the whole thing.
+Speaker 3: At Tarnwick Haulage we have eleven people in our Monday meeting, and my director talks over the whole thing.
 Odalys: Good example, Dario, and a common one. A meeting of eleven is an audience, not a meeting. Ask who has to live with the decision and invite those people.
 Odalys: Write the decision down while everyone is still in the room. Read it out loud. If two people hear it differently, you have not decided yet.
 Unknown speaker: The best meeting is the one you cancel.
@@ -97,7 +97,7 @@ Odalys: Pairs again. Run a five-minute decision meeting on where your team has l
 
 Prepared: 16 October 2026, by the content coordinator, for Odalys Venn
 
-**Summary:** 2 sessions read, 1 article drafted, 5 subjects taught but not written. Naming the decision was taught in both sessions and took more of Odalys's lines than any other subject, so it is the one article this run allows. Odalys reads the article, confirms each line under "Check before publishing", corrects or strikes anything that is wrong, and publishes from her own platform.
+**Summary:** 2 sessions read, 1 article drafted, 5 subjects taught but not written. Naming the decision was taught in both sessions and took more of Odalys's lines, by estimate, than any other subject, so it is the one article this run allows. Odalys reads the article, confirms each line under "Check before publishing", corrects or strikes anything that is wrong, and publishes from her own platform.
 
 **Articles drafted**
 

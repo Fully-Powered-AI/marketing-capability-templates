@@ -3,7 +3,7 @@
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
-- **Runs:** this record is of the third run, the only one on this version of the instructions. The two earlier runs, made the same day on earlier drafts, are summarised at the end, with the fault the second one left behind.
+- **Runs:** this record is of the third run, the only one made after the instructions began asking who is in the session. One further change was made to the instructions during this run and the run was not repeated after it, so no run was made on the final text; see "Changes made to the template for this run". The two earlier runs, made the same day on earlier drafts, are summarised at the end, with the fault the second one left behind.
 
 The inputs are the invented example published with this template. Harrowmere Bikes, its owner, its marketing lead, its customers, its competitor and the city of Calder Point are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and no real owner sat in a session.
 
@@ -23,7 +23,7 @@ The run was made in the Claude session that had just revised the template after 
 Four things a reader should know before trusting it:
 
 - **It was not blind.** The session had read the template, the second run's record and the example before it began. The second run had used a separate session that saw only the instructions; this one did not.
-- **The owner's replies were fixed in advance.** They are the eight replies written during the second run, unchanged. They answer options by letter ("A", "set B, as written"), so the options in the choices record are the second run's options, carried over so that the replies still make sense. They were not drafted afresh. Two of them were reworded, as listed under "What was observed".
+- **The owner's replies were fixed in advance.** They are the eight replies written during the second run, unchanged. They answer options by letter ("A", "set B, as written"), so the options in the choices record are the second run's options, carried over so that the replies still make sense. They were not drafted afresh. The replies are unchanged; two of the assistant's recommendations and one unchosen positioning option were reworded, as listed under "What was observed".
 - **It was one pass, not a conversation.** Nobody was waiting between messages. Each reply was applied at its place in the sequence. One decision per message was therefore not exercised.
 - **Time was not observed.** The run says nothing about the three hours of an owner's attention the template plans for.
 

@@ -51,12 +51,12 @@ Reading:
    sentence if it is one unbroken run of the customer's words and the
    cut does not change the meaning.
 7. From each note keep the exact words for: what they were trying to get
-   done; what hurts today; what made them look for something better; what
-   a good result would be; their words for the problem and for what they
+   done; what hurts today; the event that started them looking; what a
+   good result would be; their words for the problem and for what they
    want; what they use, used or weighed up instead (another product, a
    person, their own fix, or leaving things alone); what holds them
-   where they are (a worry about changing, or a habit that makes the
-   present way easy to keep).
+   where they are (a worry about changing, or a habit that suits them
+   as things are).
 8. Cite every passage: role and kind of business; note and date;
    permission; and "unprompted" or "asked:" with the question.
    - Permission is named, anonymous or not for use; not asked means not
@@ -77,12 +77,12 @@ Reading:
 Weighing:
 10. List first, as counting for more: a recent occasion told in detail,
     something already built, bought or paid for, hours or money the
-    problem has already taken, a correction of the question. Show and mark, but never count
-    as support, toward a theme, a lead or the bar: a promise about the
-    future, a vague compliment, a feature request with no problem behind
-    it, an agreement to a question that offered the answer. Mark notes
-    older than the recency window; a theme resting only on them is no
-    higher than Medium.
+    problem has already taken, a correction of the question. Show and
+    mark, but never count as support, toward a theme, a lead or the bar:
+    a promise about the future, a vague compliment, a feature request
+    with no problem behind it, an agreement to a question that offered
+    the answer. Mark notes older than the recency window; a theme
+    resting only on them is no higher than Medium.
 11. Group passages into themes. Name each theme after reading its
     passages, as a claim a customer could dispute, never as a topic. The
     reverse of a theme is not a second theme: put customers who say the
