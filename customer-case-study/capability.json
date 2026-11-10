@@ -1,0 +1,69 @@
+{
+  "id": "customer-case-study",
+  "name": "Customer case study",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "With a customer who has agreed to help, prepare the interview, then turn their words and the figures they supply into a case study in a short and a long version. Every quotation and number is listed for the customer to approve in writing, and nothing is published or named before they do.",
+  "directory": "https://fullypowered.ai/capabilities/customer-case-study/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/sales",
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/marketing-and-advertising",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-interview-synthesis",
+    "objection-answers-and-sales-one-pager",
+    "referral-programme-design"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work, written for this template: two passes with the customer's written agreement first; open questions that never offer the answer, always with one about what is still unsolved; brief facts used only when the customer says them; the figures sheet with its publish column and a stop on mismatched headers; figures copied as supplied, with estimates and worked-out figures marked; spoken figures that disagree held back to settle; a tagged approval list of every quotation, number and identifying detail; a plain description until naming is agreed; and a person who sends, records approval and publishes."
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/design/case-study-builder/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The situation, what was done and results as the case study's structure; opening with the result; a short version and a full version from the same material; results as specific figures with a before and an after; quoting the customer exactly; keeping to a few strong results; and the customer's written approval, with freedom to change their quotations, before anything is published.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "naveedharri/benai-skills",
+      "commit": "4c7a2ec92f82d467e6a66a99cb5d9491d777806f",
+      "path": "plugins/all-skills/skills/case-study/references/interview-questions.md",
+      "licence": "MIT",
+      "contribution": "An interview taken part by part, from the customer and what was happening through what was hard and what it cost, what was done, the results and the quotation to what comes next; and pressing for a before-and-after figure and for when the results first showed.",
+      "text_reused": false,
+      "notice": "notices/naveedharri-benai-skills-LICENSE.txt"
+    }
+  ]
+}

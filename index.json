@@ -116,6 +116,14 @@
       "directory": "https://fullypowered.ai/capabilities/creator-vetting-shortlist/"
     },
     {
+      "id": "customer-case-study",
+      "name": "Customer case study",
+      "version": "0.1.0",
+      "summary": "With a customer who has agreed to help, prepare the interview, then turn their words and the figures they supply into a case study in a short and a long version. Every quotation and number is listed for the customer to approve in writing, and nothing is published or named before they do.",
+      "path": "customer-case-study/",
+      "directory": "https://fullypowered.ai/capabilities/customer-case-study/"
+    },
+    {
       "id": "customer-interview-synthesis",
       "name": "Customer interview synthesis",
       "version": "0.1.0",
