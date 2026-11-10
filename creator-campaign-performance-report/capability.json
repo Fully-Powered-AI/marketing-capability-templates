@@ -1,0 +1,125 @@
+{
+  "id": "creator-campaign-performance-report",
+  "name": "Creator campaign performance report",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a creator campaign closes, the marketing lead gets one report built from the store's own orders: what each creator brought in and cost, every creator ranked under a metric set beforehand, and a proposed next step for each. Every number is labelled measured, supplied or estimated.",
+  "directory": "https://fullypowered.ai/capabilities/creator-campaign-performance-report/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-commission-statement",
+    "creator-brief",
+    "creator-vetting-shortlist"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The performance report in Fully Powered AI's own influencer-marketing capability templates (MIT, Fully-Powered-AI/influencer-marketing), rewritten here as a self-contained template that works from files a person supplies: one metric set before the run, every creator ranked, every number labelled measured, supplied or estimated, and a person who decides each creator's next step."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/report/performance-analyzer/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "One metric named in advance decides the order and every creator in the campaign stays in the table; each order is credited once, with any clash between a code and a link kept on record rather than counted twice; and what the figures show is written apart from any guess at why.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/report/roi-calculator/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A ratio whose divisor is zero or missing is undefined rather than a number, campaign ratios come from summed figures rather than an average of creator ratios, and an arithmetic return is not called profit.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/report/report-generator/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The report opens with what happened and ends with next steps, and the decision itself is left to a person.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/report/landing-optimizer/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Three questions for the next cycle's landing page: whether it matches what the post promised, whether the code is visible, and whether it works on a phone.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/influencer-tracking/SKILL.md#step-5-build-a-creator-performance-tracker",
+      "licence": "MIT",
+      "contribution": "Codes and tracked links read together because each catches orders the other misses, and gifted product counted as part of what a creator cost.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/data-analytics/attribution-modeling/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The warning that each channel tends to claim the whole sale, which became the check of creator-tracked orders against the store's paid orders from every source.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/data-analytics/marketing-spend-analysis/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Profit read beside the sales ratio, a break-even view that became the pays-back reading, and looking for ordinary causes such as stock or tracking before cutting spend.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing/SKILL.md#6-measurement--roi",
+      "licence": "MIT",
+      "contribution": "From its measurement section and its post-campaign checklist: weighing each creator by what a real buyer cost and by whether buyers come back, with reach, likes and media-value figures kept out of the judgement; asking buyers where they first heard of the brand, to catch sales that carry no code; and choosing between a one-off, a repeat and a standing arrangement.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

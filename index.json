@@ -44,6 +44,70 @@
       "directory": "https://fullypowered.ai/capabilities/creator-brief/"
     },
     {
+      "id": "creator-campaign-performance-report",
+      "name": "Creator campaign performance report",
+      "version": "0.1.0",
+      "summary": "When a creator campaign closes, the marketing lead gets one report built from the store's own orders: what each creator brought in and cost, every creator ranked under a metric set beforehand, and a proposed next step for each. Every number is labelled measured, supplied or estimated.",
+      "path": "creator-campaign-performance-report/",
+      "directory": "https://fullypowered.ai/capabilities/creator-campaign-performance-report/"
+    },
+    {
+      "id": "creator-campaign-plan",
+      "name": "Creator campaign plan",
+      "version": "0.1.0",
+      "summary": "Before a creator campaign starts, the marketing lead gets one plan: the goal, each creator's deal and deliverables, a base and a conservative budget checked against the budget supplied, the dates, the set-up before launch and the decisions. A person approves the spend.",
+      "path": "creator-campaign-plan/",
+      "directory": "https://fullypowered.ai/capabilities/creator-campaign-plan/"
+    },
+    {
+      "id": "creator-content-approval",
+      "name": "Creator content approval",
+      "version": "0.1.0",
+      "summary": "A brand marketer gets a written go or no-go on a creator's draft before it goes live: every product statement checked against the brand's cleared list, the disclosure against the brand's own rules, and feedback the creator can act on without losing their voice. A person sends it.",
+      "path": "creator-content-approval/",
+      "directory": "https://fullypowered.ai/capabilities/creator-content-approval/"
+    },
+    {
+      "id": "creator-content-reuse-plan",
+      "name": "Creator content reuse plan",
+      "version": "0.1.0",
+      "summary": "A brand marketer sees which published creator posts may be reused on which of the brand's channels, read only from the usage rights they supply, with every placement ending before the rights do. Where the rights are silent or unclear, the question goes to whoever reviews contracts.",
+      "path": "creator-content-reuse-plan/",
+      "directory": "https://fullypowered.ai/capabilities/creator-content-reuse-plan/"
+    },
+    {
+      "id": "creator-discovery-longlist",
+      "name": "Creator discovery longlist",
+      "version": "0.1.0",
+      "summary": "Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.",
+      "path": "creator-discovery-longlist/",
+      "directory": "https://fullypowered.ai/capabilities/creator-discovery-longlist/"
+    },
+    {
+      "id": "creator-programme-setup",
+      "name": "Creator programme setup",
+      "version": "0.1.0",
+      "summary": "A brand owner or marketing lead writes the rules for working with creators once, in one file: products and cleared statements, platforms, how creators are paid with the arithmetic behind it, codes, payouts, disclosure, brand safety and roles. Every line is the owner's ruling, marked with its source.",
+      "path": "creator-programme-setup/",
+      "directory": "https://fullypowered.ai/capabilities/creator-programme-setup/"
+    },
+    {
+      "id": "creator-publication-tracking",
+      "name": "Creator publication tracking",
+      "version": "0.1.0",
+      "summary": "A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.",
+      "path": "creator-publication-tracking/",
+      "directory": "https://fullypowered.ai/capabilities/creator-publication-tracking/"
+    },
+    {
+      "id": "creator-roster",
+      "name": "Creator roster",
+      "version": "0.1.0",
+      "summary": "The programme owner keeps one record of every creator the brand works with: where each relationship stands, what each creator still owes the brand, what the brand still owes each creator, and when rights and exclusivity end. It is built from the files the owner supplies; nothing is sent or paid.",
+      "path": "creator-roster/",
+      "directory": "https://fullypowered.ai/capabilities/creator-roster/"
+    },
+    {
       "id": "creator-vetting-shortlist",
       "name": "Creator vetting shortlist",
       "version": "0.1.0",
@@ -68,12 +132,28 @@
       "directory": "https://fullypowered.ai/capabilities/email-sequence-drafting/"
     },
     {
+      "id": "event-plan",
+      "name": "Event plan",
+      "version": "0.1.0",
+      "summary": "Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.",
+      "path": "event-plan/",
+      "directory": "https://fullypowered.ai/capabilities/event-plan/"
+    },
+    {
       "id": "launch-checklist",
       "name": "Launch checklist",
       "version": "0.1.0",
       "summary": "Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.",
       "path": "launch-checklist/",
       "directory": "https://fullypowered.ai/capabilities/launch-checklist/"
+    },
+    {
+      "id": "lead-magnet-plan",
+      "name": "Lead magnet plan",
+      "version": "0.1.0",
+      "summary": "A marketer or owner gets the plan for one free resource built on a question buyers really ask: who it is for, what it promises and delivers, a format the team can make in the hours it has, the outline section by section, and whether it needs a form at all.",
+      "path": "lead-magnet-plan/",
+      "directory": "https://fullypowered.ai/capabilities/lead-magnet-plan/"
     },
     {
       "id": "ninety-day-marketing-plan",
@@ -90,6 +170,14 @@
       "summary": "Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.",
       "path": "offer-review/",
       "directory": "https://fullypowered.ai/capabilities/offer-review/"
+    },
+    {
+      "id": "press-pitch-preparation",
+      "name": "Press pitch preparation",
+      "version": "0.1.0",
+      "summary": "An owner or marketer with one story to offer gets the outlets and writers it genuinely fits, each backed by a piece they recently published, and a short pitch draft for each. Every claim in a draft comes from facts you supply. Drafts only: a person decides and sends.",
+      "path": "press-pitch-preparation/",
+      "directory": "https://fullypowered.ai/capabilities/press-pitch-preparation/"
     },
     {
       "id": "recorded-sessions-into-articles",

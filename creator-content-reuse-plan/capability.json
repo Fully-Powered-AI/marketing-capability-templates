@@ -1,0 +1,106 @@
+{
+  "id": "creator-content-reuse-plan",
+  "name": "Creator content reuse plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A brand marketer sees which published creator posts may be reused on which of the brand's channels, read only from the usage rights they supply, with every placement ending before the rights do. Where the rights are silent or unclear, the question goes to whoever reviews contracts.",
+  "directory": "https://fullypowered.ai/capabilities/creator-content-reuse-plan/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/advertising-and-lead-generation"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-content-approval",
+    "creator-roster",
+    "creator-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The content reuse capability in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its rights states, cut types, disclosure and code rules, plan check and take-down list."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/content-amplifier/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A small fixed set of rights states judged on a stated date, with anything not active kept from new use; a hand-worked take-down list for live placements; no ranking without an approved rule; a list of rights worth extending.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/content-amplifier/references/atom-extraction.md",
+      "licence": "Apache-2.0",
+      "contribution": "Smaller cuts of one source piece that stay tied to the source's identity.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/report/landing-optimizer/references/templates.md",
+      "licence": "Apache-2.0",
+      "contribution": "Rights that must cover the whole display period of a placement, not only its start; creator testimonials kept as a tier apart from customer reviews.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/ugc-campaign-management/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Rights scope recorded per channel; only cleared content displayed; a pre-publication check that the product shown matches the product page.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/customer-crm/user-generated-content/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A verified-buyer label that separates real customers from others; paid use of someone's content only with written permission.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/video-commerce-integration/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A product tag or hotspot on creator video that names the exact product shown.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    }
+  ]
+}

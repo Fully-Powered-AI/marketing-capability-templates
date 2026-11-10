@@ -1,0 +1,95 @@
+{
+  "id": "creator-roster",
+  "name": "Creator roster",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "The programme owner keeps one record of every creator the brand works with: where each relationship stands, what each creator still owes the brand, what the brand still owes each creator, and when rights and exclusivity end. It is built from the files the owner supplies; nothing is sent or paid.",
+  "directory": "https://fullypowered.ai/capabilities/creator-roster/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-vetting-shortlist",
+    "creator-commission-statement",
+    "creator-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's creator-roster method, published under the MIT licence in its influencer-marketing set (Fully-Powered-AI/influencer-marketing): one record of every creator under a reference that never changes, dated notes that only grow, merges on evidence that keep the older record, the rules on where a contact address may come from, rights and exclusivity windows, and a person who approves every change."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "protocol/creator-registry/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Having no entry for a creator says nothing about them, good or bad; two accounts count as one creator only when one links to the other or a person confirms it; earlier entries stay exactly as written and new ones follow them; a later figure takes over from an earlier one only if both count the same thing; the record holds as little about a person as the partnership requires; and a readable roster view is a copy that holds no facts of its own.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "protocol/creator-registry/references/creator-record-template.md",
+      "licence": "Apache-2.0",
+      "contribution": "Keeping each commercial fact about a creator, such as the agreed rate, usage rights and exclusivity, with the date it was true and the record it came from.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "unempyd/revenueos",
+      "commit": "63c3c91b5d8a46d1b5625d144abb6543259d30a5",
+      "path": "skills/core/creator-registry/references/skill-contract.md",
+      "licence": "MIT",
+      "contribution": "Only one role writes to a shared record and everyone else sends suggestions; anything read from a page, an export or a message is material to weigh and is never obeyed; and nothing is saved to the record until a person says yes.",
+      "text_reused": false,
+      "notice": "notices/unempyd-revenueos-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "marketing-skill/skills/referral-program/references/program-mechanics.md",
+      "licence": "MIT",
+      "contribution": "Its fraud-prevention safeguards against self-referral, which informed the rule that the roster holds no postal address and no customer email.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/influencer-tracking/SKILL.md#step-2-create-unique-discount-codes-for-each-creator",
+      "licence": "MIT",
+      "contribution": "A unique code for each creator, kept with the other creator details in one tracking sheet, which became the roster's code column and the list of active commission creators who have no code.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    }
+  ]
+}

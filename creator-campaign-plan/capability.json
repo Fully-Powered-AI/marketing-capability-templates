@@ -1,0 +1,167 @@
+{
+  "id": "creator-campaign-plan",
+  "name": "Creator campaign plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a creator campaign starts, the marketing lead gets one plan: the goal, each creator's deal and deliverables, a base and a conservative budget checked against the budget supplied, the dates, the set-up before launch and the decisions. A person approves the spend.",
+  "directory": "https://fullypowered.ai/capabilities/creator-campaign-plan/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/advertising-and-lead-generation"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "creator-vetting-shortlist",
+    "creator-brief",
+    "creator-campaign-performance-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The campaign plan in Fully Powered AI's own influencer-marketing capability templates (MIT, Fully-Powered-AI/influencer-marketing), rewritten here as a self-contained template for any business: the person's own expected orders in a base and a conservative case, fee deals shown with their break-even and held for the spend approver, a timeline tested against the lead time, a set-up checklist, a risk register and decisions written as options with a recommendation."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/campaign-planner/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A plan assembled section by section from objective to risks; any required choice the person has not supplied stays open instead of being filled with a default; how results will be judged is agreed before launch; and a dated table of key milestones.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/campaign-planner/references/influencer-tiers.md",
+      "licence": "Apache-2.0",
+      "contribution": "Creator size labels used only as the person declares them, and no size of creator presented as the better buy.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/campaign-planner/references/templates.md#9-compile-campaign-plan-document",
+      "licence": "Apache-2.0",
+      "contribution": "From its template for compiling the plan document: one document running from a summary through objectives, creators, timeline, budget and measures, with a risk table giving a response on each row.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/budget-optimizer/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Cases compared side by side; each forecast number showing how it was reached and where its inputs came from; no contingency line unless a rule is supplied; and media-value figures kept out of returns.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/budget-optimizer/references/templates.md",
+      "licence": "Apache-2.0",
+      "contribution": "Scenario tables set side by side, and each projected figure carrying its formula, its inputs and a label saying whether it was supplied, measured or estimated.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing/SKILL.md#3-structuring-the-deal",
+      "licence": "MIT",
+      "contribution": "From its section on structuring the deal: the deal types from flat fee to commission, a fee plus commission, and gifted product, and reuse rights treated as something to plan and agree rather than assume.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing/SKILL.md#run-of-show-checklist",
+      "licence": "MIT",
+      "contribution": "From its run-of-show checklist, and the disclosure section it points back to: codes or links, the disclosure requirement and reuse rights settled before the first post appears, which became the set-up checklist before the first post; and a disclosure placed where viewers see it, said aloud in video, with the platform's own paid-partnership label as well as the written words, built into the brief and the creator's terms and then checked, which became M5, R2 and the example's disclosure setting.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/influencer-tracking/SKILL.md#best-practices",
+      "licence": "MIT",
+      "contribution": "From its best practices and pitfalls: codes and links used together, end dates and one-use limits on codes against leaks, and the cost of gifted product included in spend.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/product-launch-campaigns/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The creator lane timed to the launch: no post before the product page and code are live, and product in creators' hands early enough for one approval round.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/seasonal-campaign-automation/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A campaign calendar worked back from the live date with the lead time each stage needs, and the end of a promotion settled before it starts.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/pricing-promotions/price-rules-engine/SKILL.md#best-practices",
+      "licence": "MIT",
+      "contribution": "From its best practices: deciding which promotions may stack and checking a discount on a sample order first, which became the decision on combining creator codes with another promotion and the second test order.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "nexscope-ai/eCommerce-Skills",
+      "commit": "ee0fb29433d02ccc22e3e6cea9ab4586d49fd42e",
+      "path": "tiktok-influencer-marketing/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A campaign plan whose output carries a tracking set-up block and a checklist of next steps left unticked, which became the set-up checklist before the first post, in particular the codes and tracked links tested in M2 and M3.",
+      "text_reused": false,
+      "notice": "notices/nexscope-ai-eCommerce-Skills-LICENSE.txt"
+    }
+  ]
+}

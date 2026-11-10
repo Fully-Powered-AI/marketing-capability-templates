@@ -1,0 +1,87 @@
+{
+  "id": "event-plan",
+  "name": "Event plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.",
+  "directory": "https://fullypowered.ai/capabilities/event-plan/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/nonprofits"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "launch-checklist",
+    "email-sequence-drafting",
+    "sales-call-preparation-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own event planning guide, used in its marketing work, and its own rules for prepared work: an owner and a date on every line, the owner's own figures with nothing estimated, a short note of your facts as the only source for what is said, and a person who approves anything that leaves the business or costs money."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/events/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The event method this capability rewrites: one main outcome judged by real conversations, not headcounts or scans; four combinable roles; the before, during and after shape; short meetings requested ahead of the day; a note after each conversation; quick follow-up sorted by how far each conversation got; and a small hosted dinner with no pitch.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/events/references/speaking.md",
+      "licence": "MIT",
+      "contribution": "For a talk: confirming beforehand whether it is recorded and may be reused, and writing down every question from the floor.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/events/references/webinar-funnel.md",
+      "licence": "MIT",
+      "contribution": "For a webinar: deciding the one next step before the content, a registration that adds a calendar entry, reminders close to the start with the join link, and a separate note for people who registered and did not attend.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/events/references/sponsorship-roi.md",
+      "licence": "MIT",
+      "contribution": "For a stand: asking the organiser for a talk before paying for floor space, asking who attends by role rather than in total, two capable people on each shift, one opening question that tells the audience apart from passers-by, and a quick, polite close with anyone outside it.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

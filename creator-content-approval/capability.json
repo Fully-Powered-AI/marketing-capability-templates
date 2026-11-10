@@ -1,0 +1,74 @@
+{
+  "id": "creator-content-approval",
+  "name": "Creator content approval",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A brand marketer gets a written go or no-go on a creator's draft before it goes live: every product statement checked against the brand's cleared list, the disclosure against the brand's own rules, and feedback the creator can act on without losing their voice. A person sends it.",
+  "directory": "https://fullypowered.ai/capabilities/creator-content-approval/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/compliance-risk-and-privacy"
+  ],
+  "industries": [
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-brief",
+    "creator-vetting-shortlist",
+    "copy-edit-with-a-change-list"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The content approval capability in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its twelve checks, statement classes, verdict order, conditions at posting and numbered attempts."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/creator-content-auditor/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A pre-publication check of one fixed submission, re-reviewed traceably when revised; unseen material left open rather than passed; polish never offsetting a disclosure or claim fault; each change pinned to a spot with fault, correction and resubmission condition; submission text quoted as evidence; feedback drafted, never sent.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "product-legal/skills/marketing-claims-review/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Listing every claim before judging any and giving each a class; checking a statement against the product it describes; reporting a gap instead of filling it from memory.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing/SKILL.md#4-disclosure--compliance-non-negotiable",
+      "licence": "MIT",
+      "contribution": "Sponsored creator content needing written disclosure and the platform's label together; creators speaking only from real use, with no invented outcomes and no pretence of being an ordinary paying customer; a disclosure placed before the caption is cut, spoken in video, and not left to a few tags alone.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

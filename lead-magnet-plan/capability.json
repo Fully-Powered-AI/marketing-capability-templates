@@ -1,0 +1,126 @@
+{
+  "id": "lead-magnet-plan",
+  "name": "Lead magnet plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A marketer or owner gets the plan for one free resource built on a question buyers really ask: who it is for, what it promises and delivers, a format the team can make in the hours it has, the outline section by section, and whether it needs a form at all.",
+  "directory": "https://fullypowered.ai/capabilities/lead-magnet-plan/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "content-plan",
+    "email-sequence-drafting",
+    "launch-checklist"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own lead magnet working guide, used in its marketing: the facts note as the only source, buyer questions grouped and counted in their own words, one reader by role, the honest verdict that a magnet is not the right move, the effort check against the hours given, the five checks, the no-form rule, the wording of the first-contact question and where its answer is recorded, and a plan that publishes nothing."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/lead-magnets/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The lead magnet method our guide rewrote: the topic drawn from what buyers repeatedly raise during the sale, the magnet matched to the buyer's stage, a narrow question, a single format, the magnet built from material the company already holds, including published pieces and internal checklists or templates, and a plan covering recommendation, outline, form decision and measurement with as few form fields as possible.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/lead-magnet-design/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Asking at the outset whether to make a magnet at all, including when nobody will follow up; one job done well rather than too little or everything; format by the topic's shape and the hours the team can realistically give; and success defined before release, judged by whether those who take it are the readers it was made for rather than by how many take it.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/lead-magnet-design/references/title-and-presentation-discipline.md",
+      "licence": "MIT",
+      "contribution": "The title read against the contents so it promises no more than they hold, and a first page that is useful before anything about the company.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/lead-magnet-design/references/lead-magnet-anti-patterns.md",
+      "licence": "MIT",
+      "contribution": "The ways a magnet goes wrong, each with the sign to look for, from which our five checks take a broken promise, a magnet written for everyone, selling inside the body and a form with no follow-up behind it.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/lead-magnet-design/references/format-specific-quality-gates.md",
+      "licence": "MIT",
+      "contribution": "A worked example inside the resource, and checklist items placed in the order the work is done.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "whawkinsiv/solo-founder-skills",
+      "commit": "b38729339fb857f3f6c8838003517a5a1b295570",
+      "path": "plugins/sf-strategy/skills/validate/references/experiments.md",
+      "licence": "MIT",
+      "contribution": "Deciding what counts as success ahead of the trial rather than once results are in: here, how you will know the magnet works is written in sentences before anyone receives it.",
+      "text_reused": false,
+      "notice": "notices/whawkinsiv-solo-founder-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "panaversity/agentfactory-business-plugins",
+      "commit": "4497a99e149ffe2447eeaeed1d7706cd91c2edfb",
+      "path": "innovation/skills/hypothesis/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A conversation as the cheapest test, and a reader's approval not counted as proof: here, the question asked on each first contact, and success judged by what the reader did next.",
+      "text_reused": false,
+      "notice": "notices/panaversity-agentfactory-business-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "GTMify/aigtm",
+      "commit": "1cb992d7589f85b8ffa07f13f2c60f2028ba39b4",
+      "path": "skills/kit/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A completed sample inside the resource so the reader sees the finished state, the format matched to the job with the lighter format preferred when several would serve, an email address as the only form field, and no invented scarcity.",
+      "text_reused": false,
+      "notice": "notices/GTMify-aigtm-LICENSE.txt"
+    }
+  ]
+}

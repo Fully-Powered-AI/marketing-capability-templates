@@ -1,0 +1,77 @@
+{
+  "id": "press-pitch-preparation",
+  "name": "Press pitch preparation",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "An owner or marketer with one story to offer gets the outlets and writers it genuinely fits, each backed by a piece they recently published, and a short pitch draft for each. Every claim in a draft comes from facts you supply. Drafts only: a person decides and sends.",
+  "directory": "https://fullypowered.ai/capabilities/press-pitch-preparation/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/consumer-brands",
+    "industries/hospitality"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "launch-checklist",
+    "content-plan",
+    "cold-outreach-sequence-drafting"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own press guide, used in its marketing work: support labelled by kind (method, view, observed work, measured result), a story that holds at any time needs no invented news, outlets chosen from their own editorial guidance and a recent piece, a recipient's role rather than a guessed address, limits kept in the copy, and no exclusivity or availability promised without a basis."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/public-relations/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Whether a story is worth offering at all (a real story, someone to speak, a destination) and a check of each pitch before it goes: the writer covers the subject, the subject line is specific, the body is short and the ask is clear; and, from its section on when something goes wrong, the reason an incident or complaint is not met with a pitch: it needs confirmed facts, one accountable spokesperson and, where it matters, qualified advice.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/public-relations/references/journalist-pitching.md",
+      "licence": "MIT",
+      "contribution": "Reading a writer's recent pieces before pitching, judging fit on subject, readers and recency, the order of a pitch ending in one ask, a short body, a subject line that names the story, no attachments and no hype words, not pitching a writer or outlet on what it says it does not take, and a follow-up only when it adds something new.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/public-relations/references/story-angles.md",
+      "licence": "MIT",
+      "contribution": "The product as evidence for a story rather than the story itself, a milestone needing a change or lesson around it, and an angle that stands against a broken practice, never a named competitor.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

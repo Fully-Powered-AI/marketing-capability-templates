@@ -1,0 +1,86 @@
+{
+  "id": "creator-publication-tracking",
+  "name": "Creator publication tracking",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.",
+  "directory": "https://fullypowered.ai/capabilities/creator-publication-tracking/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/compliance-risk-and-privacy"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-brief",
+    "creator-content-approval",
+    "creator-campaign-performance-report"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The publication tracking capability in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its live check of each post, its day 1, 7 and 30 checks, its fix requests confirmed only by a re-check, its removal referrals and its fee milestone hand-off."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/campaign-planner/references/templates.md",
+      "licence": "Apache-2.0",
+      "contribution": "A checkpoint per agreed post per creator; observations added as new dated records, never written over; unevidenced lines kept unknown; a missing, changed or unapproved live post sent back to the content reviewer; the attention list built from a stated date.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/creator-content-auditor/references/review-templates.md",
+      "licence": "Apache-2.0",
+      "contribution": "Checking a post's required elements one at a time (disclosure, link, promo code); each requested change stating what is there, what is needed and by when; drafting a message never authorises sending it.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/influencer-tracking",
+      "licence": "MIT",
+      "contribution": "One tracking link and one discount code issued to each creator for each campaign, so a live post can be compared with exactly what was issued; and the note that on some platforms the link sits in the profile rather than the caption.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/ugc-campaign-management/SKILL.md#step-4-moderate-ugc-before-publishing",
+      "licence": "MIT",
+      "contribution": "Checking that what a published piece shows and claims matches what was cleared, which became the line comparing each live post with its approved version. The package's rights gate before reuse is not used here.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    }
+  ]
+}
