@@ -20,6 +20,38 @@
       "directory": "https://fullypowered.ai/capabilities/competitor-profile-from-public-pages/"
     },
     {
+      "id": "content-plan",
+      "name": "Content plan",
+      "version": "0.1.0",
+      "summary": "A marketing lead with a few hours a week gets a content plan built on the questions buyers really ask: one subject for each question worth answering, the formats those hours can carry, a ranked list of what to write next, and what is held or left out, each with its reason.",
+      "path": "content-plan/",
+      "directory": "https://fullypowered.ai/capabilities/content-plan/"
+    },
+    {
+      "id": "copy-edit-with-a-change-list",
+      "name": "Copy edit with a change list",
+      "version": "0.1.0",
+      "summary": "Hand over a page, an email or a brochure and get it back plainer and tighter, with no claim stronger than the statements you can support and a change list that shows every edit, its reason and any meaning it moved. You approve each change before the copy is used.",
+      "path": "copy-edit-with-a-change-list/",
+      "directory": "https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/"
+    },
+    {
+      "id": "creator-brief",
+      "name": "Creator brief",
+      "version": "0.1.0",
+      "summary": "A brand marketer gets one brief per creator for a campaign: the product statements the brand has cleared, word for word, the disclosure that creator's platform needs, their own code and link, the dates and the review round. Nothing reaches a creator until a person reads it and sends it.",
+      "path": "creator-brief/",
+      "directory": "https://fullypowered.ai/capabilities/creator-brief/"
+    },
+    {
+      "id": "creator-vetting-shortlist",
+      "name": "Creator vetting shortlist",
+      "version": "0.1.0",
+      "summary": "Before anyone contacts a creator, the program lead sees every name on the longlist scored on six lines, each backed by what was seen and when: audience fit, engagement quality, authenticity, brand safety, sponsored track record and contactability. A person chooses who to approach.",
+      "path": "creator-vetting-shortlist/",
+      "directory": "https://fullypowered.ai/capabilities/creator-vetting-shortlist/"
+    },
+    {
       "id": "customer-interview-synthesis",
       "name": "Customer interview synthesis",
       "version": "0.1.0",
@@ -28,12 +60,60 @@
       "directory": "https://fullypowered.ai/capabilities/customer-interview-synthesis/"
     },
     {
+      "id": "email-sequence-drafting",
+      "name": "Email sequence drafting",
+      "version": "0.1.0",
+      "summary": "People who asked to hear from you get emails worth opening: a welcome, a nurture sequence or a new customer's onboarding, drafted in your voice, each email with one job and one ask, every claim traced to your own facts, and a clear end. You read, load and send them yourself.",
+      "path": "email-sequence-drafting/",
+      "directory": "https://fullypowered.ai/capabilities/email-sequence-drafting/"
+    },
+    {
+      "id": "launch-checklist",
+      "name": "Launch checklist",
+      "version": "0.1.0",
+      "summary": "Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.",
+      "path": "launch-checklist/",
+      "directory": "https://fullypowered.ai/capabilities/launch-checklist/"
+    },
+    {
+      "id": "ninety-day-marketing-plan",
+      "name": "Ninety-day marketing plan",
+      "version": "0.1.0",
+      "summary": "An owner or first marketing hire gets the next ninety days of marketing on one plan: the stage the business is really in, the moves that fit it, who owns each one, the money and hours they use, and what is deliberately left undone. Every count comes from your own records, and no budget is invented.",
+      "path": "ninety-day-marketing-plan/",
+      "directory": "https://fullypowered.ai/capabilities/ninety-day-marketing-plan/"
+    },
+    {
+      "id": "offer-review",
+      "name": "Offer review",
+      "version": "0.1.0",
+      "summary": "Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.",
+      "path": "offer-review/",
+      "directory": "https://fullypowered.ai/capabilities/offer-review/"
+    },
+    {
       "id": "recorded-sessions-into-articles",
       "name": "Recorded sessions into articles",
       "version": "0.1.0",
       "summary": "A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.",
       "path": "recorded-sessions-into-articles/",
       "directory": "https://fullypowered.ai/capabilities/recorded-sessions-into-articles/"
+    },
+    {
+      "id": "referral-programme-design",
+      "name": "Referral programme design",
+      "version": "0.1.0",
+      "summary": "Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.",
+      "path": "referral-programme-design/",
+      "directory": "https://fullypowered.ai/capabilities/referral-programme-design/"
+    },
+    {
+      "id": "website-findability-audit",
+      "name": "Website findability audit",
+      "version": "0.1.0",
+      "summary": "An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.",
+      "path": "website-findability-audit/",
+      "directory": "https://fullypowered.ai/capabilities/website-findability-audit/"
     }
   ]
 }

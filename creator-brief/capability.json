@@ -1,0 +1,84 @@
+{
+  "id": "creator-brief",
+  "name": "Creator brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A brand marketer gets one brief per creator for a campaign: the product statements the brand has cleared, word for word, the disclosure that creator's platform needs, their own code and link, the dates and the review round. Nothing reaches a creator until a person reads it and sends it.",
+  "directory": "https://fullypowered.ai/capabilities/creator-brief/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "brand-strategy-workshop",
+    "launch-checklist",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The creator brief in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its rules for prepared work: only cleared statements, every gap marked for the person who supplies it, and a person who reads and sends."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/target/brief-generator",
+      "licence": "Apache-2.0",
+      "contribution": "The parts a creator brief covers (key messages, what not to say, deliverables, creative freedom, timeline, review, disclosure, contact) and the principle that a brief guides rather than scripts.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing",
+      "licence": "MIT",
+      "contribution": "The purpose in one sentence, a small ceiling on talking points, a call to action with the creator's own code and link, guardrails, an explicit grant of creative freedom, and where a disclosure has to sit to count, with the tags that do not count on their own.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "Orkas-AI/Orkas",
+      "commit": "7b9c8cb98cb5c528f58d1d218329e8cd9dba3a76",
+      "path": "resources/builtin/marketplace/skills/59d186285161",
+      "licence": "MIT",
+      "contribution": "The point that an image or demonstration can claim what the words may not, and that each claim is tied to the exact product shown.",
+      "text_reused": false,
+      "notice": "notices/Orkas-AI-Orkas-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/ugc-campaign-management",
+      "licence": "MIT",
+      "contribution": "The checks made on creator content before it is used: no competitor products, nothing inappropriate, no misleading claims. They underlie the brief's lines on competitors and redlines.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    }
+  ]
+}

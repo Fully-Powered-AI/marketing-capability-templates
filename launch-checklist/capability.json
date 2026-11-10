@@ -1,0 +1,77 @@
+{
+  "id": "launch-checklist",
+  "name": "Launch checklist",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.",
+  "directory": "https://fullypowered.ai/capabilities/launch-checklist/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/project-and-delivery"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "cold-outreach-sequence-drafting",
+    "objection-answers-and-sales-one-pager",
+    "competitor-profile-from-public-pages"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own launch planning guide, used in its marketing work, and its own rules for prepared work: an owner on every line, a fact not supplied is never treated as a pass, and a person approves anything that leaves the business."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/launch",
+      "licence": "MIT",
+      "contribution": "The launch method this capability rewrites: owned, borrowed and rented channels leading back to owned ones; a readiness check and two stalls before the mechanics; before, day and after phases; large, medium and small launches; marketing a change makes wrong; and the checks before a web page goes live.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "launch/research/launch-tier-planner",
+      "licence": "Apache-2.0",
+      "contribution": "Sizing a launch by three questions (how much of the audience it touches, new or an improvement, whether it changes what is sold), taking the smaller size when they disagree, and spacing large launches to the same audience.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/build-agent",
+      "licence": "Apache-2.0",
+      "contribution": "The principle that a request for approval spells out what will go out, to whom and from which account, so the person knows exactly what a yes sets in motion.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}

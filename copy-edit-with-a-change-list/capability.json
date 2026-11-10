@@ -1,0 +1,76 @@
+{
+  "id": "copy-edit-with-a-change-list",
+  "name": "Copy edit with a change list",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Hand over a page, an email or a brochure and get it back plainer and tighter, with no claim stronger than the statements you can support and a change list that shows every edit, its reason and any meaning it moved. You approve each change before the copy is used.",
+  "directory": "https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/marketing-and-advertising",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "recorded-sessions-into-articles",
+    "customer-interview-synthesis",
+    "objection-answers-and-sales-one-pager"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own copy-editing guide and its rules for claims: every claim held to what the company can support before any polish, never strengthened, and every change recorded for a person to approve."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/copy-editing",
+      "licence": "MIT",
+      "contribution": "The method the guide rewrites: editing in separate passes, each on one quality, with earlier passes rechecked after every one; the passes for clarity, one consistent voice, what each line means for the reader, and specific facts in place of vague words, including dropping a sentence that cannot be made specific; the list of habits that make copy read as machine-written (the turn-around contrast, the run of absences, the self-answered question and staged reveal, stock openers, the restating tail clause, praise words standing in for facts, dashes in headings and other short lines); fixing such a habit from the fact rather than a synonym; finding each claim in the copy and flagging the ones without support; marking a missing fact for someone to supply rather than making it up; a reason for every edit; and keeping the author's message, with the author deciding.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "swan-gtm/gtm-skills",
+      "commit": "78f59eb9e48d4e1a850d38e66d2501d3347da281",
+      "path": "skills/amith-tk/humanize-content",
+      "licence": "MIT",
+      "contribution": "Asking, before editing, where the copy will appear and who reads it; house-style switches that turn a habit off when the brand uses it on purpose; four further habits to fix (a verbless phrase standing in for a full sentence, a sentence that hinges on \"so\", a sentence that opens with a label before making its point, a blanket closing line beginning \"none of that\"); a report listing each edit that altered what the copy says, however small; re-reading after the fixes so that one repair is not repeated until it becomes a habit of its own; and leaving headlines and lines the owner has signed off exactly as they are.",
+      "text_reused": false,
+      "notice": "notices/swan-gtm-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "swan-gtm/gtm-skills",
+      "commit": "78f59eb9e48d4e1a850d38e66d2501d3347da281",
+      "path": "skills/gali-firon/visual-argument-review",
+      "licence": "MIT",
+      "contribution": "A verdict at the top on one of three levels (ready as it stands; nearly there, with named items to fix; not ready until a basic problem is settled), and the rule that the verdict is never softened.",
+      "text_reused": false,
+      "notice": "notices/swan-gtm-gtm-skills-LICENSE.txt"
+    }
+  ]
+}

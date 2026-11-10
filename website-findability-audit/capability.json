@@ -1,0 +1,128 @@
+{
+  "id": "website-findability-audit",
+  "name": "Website findability audit",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.",
+  "directory": "https://fullypowered.ai/capabilities/website-findability-audit/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/hospitality",
+    "industries/real-estate"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "ai-visibility-audit-for-an-online-store",
+    "competitor-profile-from-public-pages",
+    "customer-interview-synthesis",
+    "recorded-sessions-into-articles"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own search-readiness and AI-discovery working guides, used for its own website."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/seo-audit",
+      "licence": "MIT",
+      "contribution": "The upstream of Fully Powered's search guide: an audit that looks at whether pages can be crawled and indexed before judging their content, and the warning that a copy of a page stripped of its scripts cannot prove that structured data is absent.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/ai-seo",
+      "licence": "MIT",
+      "contribution": "The upstream of Fully Powered's AI-discovery guide: a plain definition near the top of a page, answer passages that make sense on their own, important content readable without scripts, and treating each named crawler as a separate decision.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/seo-technical",
+      "licence": "MIT",
+      "contribution": "Checking reach and indexing before content, the rule that canonical tag, sitemap and internal links should all name one address per page, and stating what could not be checked instead of filling the gap.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "rampstackco/claude-skills",
+      "commit": "482c9bf74697fc1e311bd4dca5ce301f046c4b76",
+      "path": "skills/seo-site-health-audit",
+      "licence": "MIT",
+      "contribution": "Grouping findings that share one cause into a single fix, and agreeing up front how each fix will be confirmed.",
+      "text_reused": false,
+      "notice": "notices/rampstackco-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "seo-geo/tune/technical-seo-checker",
+      "licence": "Apache-2.0",
+      "contribution": "Saying where the evidence for every finding came from, and marking a check whose data is missing as open rather than estimating it.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/seo-ai-visibility/reference/gotchas.md",
+      "licence": "Apache-2.0",
+      "contribution": "Treating hidden text and words addressed to AI assistants as faults to remove, leaving a deliberate crawler block to the owner, giving no overall score, and promising nothing about what an assistant recommends.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "small-business/skills/seo-ai-visibility/reference/audit_checklist.md",
+      "licence": "Apache-2.0",
+      "contribution": "Naming what could not be read, such as a page behind a login, instead of leaving it out without a word.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "unifapi-agent/agents",
+      "commit": "fb532478a0a33b6a345ce3aad9d2632164397ebc",
+      "path": "skills/local-seo-agent/listing-accuracy-audit",
+      "licence": "MIT",
+      "contribution": "Comparing published business facts with the owner's own, treating a published fact the owner has not supplied as an open question rather than an error, and dating each audit so the same check, repeated later, shows whether a fix was made.",
+      "text_reused": false,
+      "notice": "notices/unifapi-agent-agents-LICENSE.txt"
+    }
+  ]
+}

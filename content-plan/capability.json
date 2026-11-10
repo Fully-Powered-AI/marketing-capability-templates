@@ -1,0 +1,56 @@
+{
+  "id": "content-plan",
+  "name": "Content plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A marketing lead with a few hours a week gets a content plan built on the questions buyers really ask: one subject for each question worth answering, the formats those hours can carry, a ranked list of what to write next, and what is held or left out, each with its reason.",
+  "directory": "https://fullypowered.ai/capabilities/content-plan/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/consumer-brands",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "customer-interview-synthesis",
+    "recorded-sessions-into-articles",
+    "objection-answers-and-sales-one-pager"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own content planning guide, used in its marketing work."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/content-strategy",
+      "licence": "MIT",
+      "contribution": "The content strategy method our guide rewrote: asking what time and formats the team has, subjects drawn from buyers' questions in sales and support, each question kept in the buyer's words with its source, how often a question comes up as a sign of priority, questions placed at buyer stages through to after the purchase, pieces meant to be found told apart from pieces meant to be passed on, a stated addition over existing answers before a piece is planned, candidates rated before they are ranked, one piece cut into shorter ones, and the owned channel as the destination.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

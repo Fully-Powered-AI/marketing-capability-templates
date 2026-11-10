@@ -1,0 +1,64 @@
+{
+  "id": "offer-review",
+  "name": "Offer review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.",
+  "directory": "https://fullypowered.ai/capabilities/offer-review/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "objection-answers-and-sales-one-pager",
+    "customer-interview-synthesis",
+    "competitor-profile-from-public-pages"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own offer-review guide, used on its own offers: protection drawn only from safeguards actually promised, no invented guarantee, result or deadline, the reason to decide now left empty when no real limit exists, and every change built from the owner's facts."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/offers",
+      "licence": "MIT",
+      "contribution": "The method this capability rewrites: read an offer as six parts, weigh it on four levers and work on the weakest one first, give each extra one objection to answer, test whether a buyer can repeat the name, and allow only a real limit as a reason to decide now. The package attributes its four-lever frame to a published book on offers.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "whawkinsiv/solo-founder-skills",
+      "commit": "b38729339fb857f3f6c8838003517a5a1b295570",
+      "path": "plugins/sf-strategy/skills/validate/references/scorecard.md",
+      "licence": "MIT",
+      "contribution": "Each rating read against a described level instead of a bare number, and a lever with nothing behind it rated at the floor and turned into a question (its scorecard reference describes each level of every dimension and puts unknowns at the floor).",
+      "text_reused": false,
+      "notice": "notices/whawkinsiv-solo-founder-skills-LICENSE.txt"
+    }
+  ]
+}

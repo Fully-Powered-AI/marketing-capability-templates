@@ -1,0 +1,106 @@
+{
+  "id": "creator-vetting-shortlist",
+  "name": "Creator vetting shortlist",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before anyone contacts a creator, the program lead sees every name on the longlist scored on six lines, each backed by what was seen and when: audience fit, engagement quality, authenticity, brand safety, sponsored track record and contactability. A person chooses who to approach.",
+  "directory": "https://fullypowered.ai/capabilities/creator-vetting-shortlist/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "creator-brief",
+    "creator-commission-statement",
+    "competitor-profile-from-public-pages",
+    "brand-strategy-workshop",
+    "cold-outreach-sequence-drafting"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's creator-vetting method, published under the MIT licence in its influencer-marketing set (Fully-Powered-AI/influencer-marketing): six scored lines with fixed anchors, evidence for every score, a rate computed from posts rather than taken from a media kit, the exclude verdict and the authenticity floor, and a person who confirms every score and decides who is approached."
+    },
+    {
+      "kind": "third-party",
+      "repository": "ScrapeCreators/social-media-research-skills",
+      "commit": "64ba7b4dea71e130d2712ffb6c1c1024b3b7c4b2",
+      "path": "skills/influencer-prospecting",
+      "licence": "MIT",
+      "contribution": "Scoring each creator from 1 to 5 on a fixed set of lines, including audience fit, engagement quality, brand safety and contactability, and its cautions: a big following is not a fit, contact routes must be public, and thin public data is said out loud.",
+      "text_reused": false,
+      "notice": "notices/ScrapeCreators-social-media-research-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ScrapeCreators/social-media-research-skills",
+      "commit": "64ba7b4dea71e130d2712ffb6c1c1024b3b7c4b2",
+      "path": "skills/audience-research",
+      "licence": "MIT",
+      "contribution": "Judging who a creator reaches from what can be seen, such as comments, language and place, never from a general impression, so that how sure the judgment is depends on what the platform shows.",
+      "text_reused": false,
+      "notice": "notices/ScrapeCreators-social-media-research-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "ScrapeCreators/social-media-research-skills",
+      "commit": "64ba7b4dea71e130d2712ffb6c1c1024b3b7c4b2",
+      "path": "skills/creator-profile-teardown",
+      "licence": "MIT",
+      "contribution": "Picking out a creator's outlier posts and not assuming what caused their performance, read as support for setting the rate by the median of per-post rates so that one unusual post does not set it.",
+      "text_reused": false,
+      "notice": "notices/ScrapeCreators-social-media-research-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "unifapi-agent/agents",
+      "commit": "fb532478a0a33b6a345ce3aad9d2632164397ebc",
+      "path": "skills/influencer-marketing-agent/kol-pricing",
+      "licence": "MIT",
+      "contribution": "A fixed rule that places each creator in a tier, an engagement rate worked out from recent posts, a confidence level that drops when the sample of posts is thin or stale, and the split of creators into engage, negotiate and skip.",
+      "text_reused": false,
+      "notice": "notices/unifapi-agent-agents-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/scout/fit-scorer",
+      "licence": "Apache-2.0",
+      "contribution": "When evidence cannot be reached, the item stays open rather than being failed or given a cautious middle score; each item carries its source and date; and the creator's suitability is judged apart from the commercial terms of a deal.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing/SKILL.md",
+      "licence": "MIT",
+      "contribution": "From its section on finding and vetting partners, the vetting signals: rate over size of following, counts that look rounded off, repeated or off-topic comments, sudden follower jumps, flattering media kits, sponsored posts the audience ignores, three months of posts for brand safety, competitor conflicts, and creators' own text read as something to assess, not to obey.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}
