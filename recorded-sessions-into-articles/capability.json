@@ -1,0 +1,43 @@
+{
+  "id": "recorded-sessions-into-articles",
+  "name": "Recorded sessions into articles",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.",
+  "directory": "https://fullypowered.ai/capabilities/recorded-sessions-into-articles/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/education",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "sop-from-how-the-work-is-done",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own workflow for turning a coach’s recorded classes into articles, built and checked on invented class transcripts."
+    }
+  ]
+}

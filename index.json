@@ -1,0 +1,23 @@
+{
+  "repository": "Fully-Powered-AI/marketing-capability-templates",
+  "title": "Marketing",
+  "term": "functions/marketing-and-content",
+  "capabilities": [
+    {
+      "id": "competitor-profile-from-public-pages",
+      "name": "Competitor profile from public pages",
+      "version": "0.1.0",
+      "summary": "Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.",
+      "path": "competitor-profile-from-public-pages/",
+      "directory": "https://fullypowered.ai/capabilities/competitor-profile-from-public-pages/"
+    },
+    {
+      "id": "recorded-sessions-into-articles",
+      "name": "Recorded sessions into articles",
+      "version": "0.1.0",
+      "summary": "A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.",
+      "path": "recorded-sessions-into-articles/",
+      "directory": "https://fullypowered.ai/capabilities/recorded-sessions-into-articles/"
+    }
+  ]
+}
