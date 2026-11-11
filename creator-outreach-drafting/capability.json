@@ -1,0 +1,96 @@
+{
+  "id": "creator-outreach-drafting",
+  "name": "Creator outreach drafting",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.",
+  "directory": "https://fullypowered.ai/capabilities/creator-outreach-drafting/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "creator-vetting-shortlist",
+    "creator-brief",
+    "cold-outreach-sequence-drafting"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The creator outreach method in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT): a first message built from the one thing the creator made, why them, what their audience gets, the offer in a line and one easy question; channel versions; three follow-ups then stop; vetting verdicts respected; no product statements in outreach; and a person who reads and sends every message."
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/outreach-manager/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "A first message followed by a short run of follow-ups that each add something new, get shorter and make a no easy, ending with a polite closing note; a short direct-message version and a formal version for a manager; a decline that ends one campaign's messages kept apart from a request never to be contacted.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/outreach-manager/references/cold-copy-rules.md",
+      "licence": "Apache-2.0",
+      "contribution": "Never opening on the sender; opening on the creator's name and a dated thing they made that anyone can see; never claiming a history with the creator the sender does not have; no link in the first message; a small question as the ask.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "influencer/activate/contract-helper/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The line between what outreach may discuss and what the written agreement settles, so that terms such as fees, usage rights and exclusivity are left to the agreement.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "unifapi-agent/agents",
+      "commit": "fb532478a0a33b6a345ce3aad9d2632164397ebc",
+      "path": "skills/influencer-marketing-agent/kol-pricing/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Its port of the KOL Pricing framework by Antonia (Antoniaiaiaiaia/kol-pricing, MIT): the engage, negotiate and skip handling, in which a creator marked skip is approached only when asked for, and then only with the basic deal; and, from its outreach section, a message that refers to one recent post, stays within a set length, carries no hype, emoji or exclamation marks, and ends on a low-effort ask.",
+      "text_reused": false,
+      "notice": "notices/unifapi-agent-agents-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/influencer-marketing/SKILL.md#2-outreach",
+      "licence": "MIT",
+      "contribution": "From its outreach section: approaching creators individually rather than in bulk, with each note pointing to the creator's own work, the reason the brand chose them and the benefit to their followers.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

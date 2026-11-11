@@ -1,0 +1,157 @@
+{
+  "id": "affiliate-onboarding",
+  "name": "Affiliate onboarding",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.",
+  "directory": "https://fullypowered.ai/capabilities/affiliate-onboarding/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/ecommerce-and-retail",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "creator-programme-setup",
+    "creator-roster",
+    "creator-brief",
+    "creator-commission-statement"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The affiliate onboarding work in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT): its hard gate that stops the welcome pack until every check passes, its refusal of a link with no per-creator token, its reason for treating ended codes as taken (attribution of orders that still carry them), its welcome kit with values copied word for word from the programme file and no product claims, and its dated first-weeks checklist."
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/influencer-marketplace-integration/SKILL.md",
+      "licence": "MIT",
+      "contribution": "A code and a tracked link for each creator, used together, with the code as the more dependable way a sale is credited because a buyer who leaves and comes back later or on another device still brings it to checkout; watching early use of a code for signs it has spread beyond the creator's audience.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/influencer-tracking/SKILL.md#common-pitfalls",
+      "licence": "MIT",
+      "contribution": "The code kept alongside the tracked link because it still credits a sale when the buyer moves to another device; watching a code's daily use for spikes that suggest it has reached coupon or deal sites. With the influencer marketplace guide, this became the pack's sentence on sharing both, the link that must name the creator and the first-orders check.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/marketing-growth/affiliate-program/SKILL.md",
+      "licence": "MIT",
+      "contribution": "No payout until the partner has completed the payout set-up, which became the first-weeks check before the earliest payout run; the self-referral exclusion carried in the pack.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/pricing-promotions/coupon-management/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Codes stored and compared without regard to case, and clashes with existing codes found before a code is used; this became the clash check that compares the new code with every code in use, ignoring case.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/pricing-promotions/discount-engine/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Whether a discount combines with others is a policy set on each discount, and unintended stacking is a known fault to check for; this became the combining line the programme rules hold, the checkout test that tries the creator's code with another active discount, the gate that fails when the code combines against the rules, and the pack stating combining only as the test showed it.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "finsilabs/awesome-ecommerce-skills",
+      "commit": "30a1fb674e41284e738608c059690c251699eb07",
+      "path": "skills/pricing-promotions/price-rules-engine/SKILL.md#step-2-configure-price-rules-with-stacking-on-your-platform",
+      "licence": "MIT",
+      "contribution": "Whether one promotion stacks with another is decided for each promotion, in the store's own combination settings; with the discount engine guide, this became the combining line the programme rules hold and the checkout test that tries the creator's code with another active discount.",
+      "text_reused": false,
+      "notice": "notices/finsilabs-awesome-ecommerce-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/referrals/references/affiliate-programs.md",
+      "licence": "MIT",
+      "contribution": "What a new partner is handed at the start, including their own link or code and the payment terms and schedule; self-referral and codes passed around without permission as the risks to name, which became the pack's self-referral line and its line on where a code may be posted.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/referrals/references/affiliate-operations.md#4-activate-reconcile-and-support",
+      "licence": "MIT",
+      "contribution": "Hand a partner only a link and code that have been tested, and try the customer's path through to checkout before inviting them; check whether a tool only works out commission or also pays it. This became the checkout-test gate and the coverage line that leaves crediting and payment unjudged.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "40RTY-ai/shopify-admin-skills",
+      "commit": "6765cb4f436b225360a728e1eb9bd3d9ee674316",
+      "path": "skills/store-management/shopify-admin-discount-hygiene-cleanup/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Check that a code is not still referenced or in use before acting on it; this became the rule that a code marked ended or disabled still counts as taken in the clash check.",
+      "text_reused": false,
+      "notice": "notices/40RTY-ai-shopify-admin-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "aaron-he-zhu/aaron-marketing-skills",
+      "commit": "2541ef9bf25f1c1c816130efca3d21c022a22b2e",
+      "path": "protocol/creator-registry/SKILL.md#skill-contract",
+      "licence": "Apache-2.0",
+      "contribution": "Every change to a creator's record carries its source, its date and who authorised it; this became the roster entry's test date and the role that ran the test.",
+      "text_reused": false,
+      "notice": "notices/aaron-he-zhu-aaron-marketing-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "nexscope-ai/eCommerce-Skills",
+      "commit": "ee0fb29433d02ccc22e3e6cea9ab4586d49fd42e",
+      "path": "tiktok-shop-affiliate-program/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Onboarding in stages, from the welcome package and links to a first campaign with samples, a draft review and feedback on the first posts, which became the shape of the first-weeks checklist.",
+      "text_reused": false,
+      "notice": "notices/nexscope-ai-eCommerce-Skills-LICENSE.txt"
+    }
+  ]
+}

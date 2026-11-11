@@ -4,6 +4,14 @@
   "term": "functions/marketing-and-content",
   "capabilities": [
     {
+      "id": "affiliate-onboarding",
+      "name": "Affiliate onboarding",
+      "version": "0.1.0",
+      "summary": "A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.",
+      "path": "affiliate-onboarding/",
+      "directory": "https://fullypowered.ai/capabilities/affiliate-onboarding/"
+    },
+    {
       "id": "brand-strategy-workshop",
       "name": "Brand strategy workshop",
       "version": "0.1.0",
@@ -82,6 +90,14 @@
       "summary": "Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.",
       "path": "creator-discovery-longlist/",
       "directory": "https://fullypowered.ai/capabilities/creator-discovery-longlist/"
+    },
+    {
+      "id": "creator-outreach-drafting",
+      "name": "Creator outreach drafting",
+      "version": "0.1.0",
+      "summary": "A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.",
+      "path": "creator-outreach-drafting/",
+      "directory": "https://fullypowered.ai/capabilities/creator-outreach-drafting/"
     },
     {
       "id": "creator-programme-setup",
