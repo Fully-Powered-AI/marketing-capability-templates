@@ -2,7 +2,7 @@
 
 A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/recorded-sessions-into-articles/)*
 
 ## The outcome
 
@@ -80,8 +80,8 @@ Testing in your environment means running it on sessions you remember well, with
 
 ## Related workflow templates
 
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflow templates/sop-from-how-the-work-is-done/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

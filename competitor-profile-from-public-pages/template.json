@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.",
-  "directory": "https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/",
+  "directory": "https://fullypowered.ai/workflows/competitor-profile-from-public-pages/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

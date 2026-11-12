@@ -2,7 +2,7 @@
 
 With a customer who has agreed to help, prepare the interview, then turn their words and the figures they supply into a case study in a short and a long version. Every quotation and number is listed for the customer to approve in writing, and nothing is published or named before they do.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/customer-case-study/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-case-study/)*
 
 ## The outcome
 
@@ -90,7 +90,7 @@ Testing in your environment means running it on a past interview your team knows
 ## Related workflow templates
 
 - [Customer interview synthesis](../customer-interview-synthesis/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
 - [Referral programme design](../referral-programme-design/)
 
 ## Make it yours

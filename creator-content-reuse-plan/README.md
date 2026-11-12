@@ -2,7 +2,7 @@
 
 A brand marketer sees which published creator posts may be reused on which of the brand's channels, read only from the usage rights they supply, with every placement ending before the rights do. Where the rights are silent or unclear, the question goes to whoever reviews contracts.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-content-reuse-plan/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-reuse-plan/)*
 
 ## The outcome
 

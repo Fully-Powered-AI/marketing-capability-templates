@@ -2,7 +2,7 @@
 
 Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/brand-strategy-workshop/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/brand-strategy-workshop/)*
 
 ## The outcome
 
@@ -81,9 +81,9 @@ Testing in your environment means running it on your own company and reading the
 
 ## Related workflow templates
 
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
-- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

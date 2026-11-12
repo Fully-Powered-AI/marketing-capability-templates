@@ -2,7 +2,7 @@
 
 An owner or marketer with one story to offer gets the outlets and writers it genuinely fits, each backed by a piece they recently published, and a short pitch draft for each. Every claim in a draft comes from facts you supply. Drafts only: a person decides and sends.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/press-pitch-preparation/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/press-pitch-preparation/)*
 
 ## The outcome
 
@@ -89,7 +89,7 @@ Testing in your environment means running it on a story you have already pitched
 
 - [Launch checklist](../launch-checklist/)
 - [Content plan](../content-plan/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
 
 ## Make it yours
 

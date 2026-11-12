@@ -2,7 +2,7 @@
 
 A marketing lead with a few hours a week gets a content plan built on the questions buyers really ask: one subject for each question worth answering, the formats those hours can carry, a ranked list of what to write next, and what is held or left out, each with its reason.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/content-plan/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/content-plan/)*
 
 ## The outcome
 
@@ -90,7 +90,7 @@ Testing in your environment means running it on a past quarter's questions your 
 
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Recorded sessions into articles](../recorded-sessions-into-articles/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
 
 ## Make it yours
 

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.",
-  "directory": "https://fullypowered.ai/workflow templates/launch-checklist/",
+  "directory": "https://fullypowered.ai/workflows/launch-checklist/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

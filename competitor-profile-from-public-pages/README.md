@@ -2,7 +2,7 @@
 
 Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)*
 
 ## The outcome
 
@@ -85,8 +85,8 @@ Testing in your environment means running it on a competitor you already know we
 
 ## Related workflow templates
 
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
 
 ## Make it yours
 

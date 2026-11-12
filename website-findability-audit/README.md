@@ -2,7 +2,7 @@
 
 An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/website-findability-audit/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/website-findability-audit/)*
 
 ## The outcome
 
@@ -92,7 +92,7 @@ Testing in your environment means running it on a site your team knows well, plu
 
 ## Related workflow templates
 
-- [AI visibility audit for an online store](https://fullypowered.ai/workflow templates/ai-visibility-audit-for-an-online-store/)
+- [AI visibility audit for an online store](https://fullypowered.ai/workflows/ai-visibility-audit-for-an-online-store/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Recorded sessions into articles](../recorded-sessions-into-articles/)

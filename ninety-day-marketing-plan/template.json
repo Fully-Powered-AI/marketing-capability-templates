@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An owner or first marketing hire gets the next ninety days of marketing on one plan: the stage the business is really in, the moves that fit it, who owns each one, the money and hours they use, and what is deliberately left undone. Every count comes from your own records, and no budget is invented.",
-  "directory": "https://fullypowered.ai/workflow templates/ninety-day-marketing-plan/",
+  "directory": "https://fullypowered.ai/workflows/ninety-day-marketing-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

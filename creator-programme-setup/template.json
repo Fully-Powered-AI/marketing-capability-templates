@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A brand owner or marketing lead writes the rules for working with creators once, in one file: products and cleared statements, platforms, how creators are paid with the arithmetic behind it, codes, payouts, disclosure, brand safety and roles. Every line is the owner's ruling, marked with its source.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-programme-setup/",
+  "directory": "https://fullypowered.ai/workflows/creator-programme-setup/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

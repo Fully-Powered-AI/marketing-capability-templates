@@ -2,7 +2,7 @@
 
 Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/launch-checklist/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/launch-checklist/)*
 
 ## The outcome
 
@@ -92,8 +92,8 @@ Testing in your environment means running it on a launch your team remembers wel
 
 ## Related workflow templates
 
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 
 ## Make it yours

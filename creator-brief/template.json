@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A brand marketer gets one brief per creator for a campaign: the product statements the brand has cleared, word for word, the disclosure that creator's platform needs, their own code and link, the dates and the review round. Nothing reaches a creator until a person reads it and sends it.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-brief/",
+  "directory": "https://fullypowered.ai/workflows/creator-brief/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

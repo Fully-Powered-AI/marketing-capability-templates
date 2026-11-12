@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a creator campaign closes, the marketing lead gets one report built from the store's own orders: what each creator brought in and cost, every creator ranked under a metric set beforehand, and a proposed next step for each. Every number is labelled measured, supplied or estimated.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-campaign-performance-report/",
+  "directory": "https://fullypowered.ai/workflows/creator-campaign-performance-report/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

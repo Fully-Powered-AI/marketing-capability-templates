@@ -2,7 +2,7 @@
 
 Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-discovery-longlist/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-discovery-longlist/)*
 
 ## The outcome
 

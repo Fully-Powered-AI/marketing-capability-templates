@@ -2,7 +2,7 @@
 
 A brand marketer gets a written go or no-go on a creator's draft before it goes live: every product statement checked against the brand's cleared list, the disclosure against the brand's own rules, and feedback the creator can act on without losing their voice. A person sends it.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-content-approval/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-content-approval/)*
 
 ## The outcome
 

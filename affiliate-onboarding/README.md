@@ -2,7 +2,7 @@
 
 A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/affiliate-onboarding/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/affiliate-onboarding/)*
 
 ## The outcome
 
@@ -78,7 +78,7 @@ Testing in your environment means running it on past onboardings your programme 
 - [Creator programme setup](../creator-programme-setup/)
 - [Creator roster](../creator-roster/)
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/workflow templates/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
 
 ## Make it yours
 

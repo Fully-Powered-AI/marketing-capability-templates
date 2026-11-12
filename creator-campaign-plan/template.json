@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a creator campaign starts, the marketing lead gets one plan: the goal, each creator's deal and deliverables, a base and a conservative budget checked against the budget supplied, the dates, the set-up before launch and the decisions. A person approves the spend.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-campaign-plan/",
+  "directory": "https://fullypowered.ai/workflows/creator-campaign-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

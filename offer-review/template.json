@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.",
-  "directory": "https://fullypowered.ai/workflow templates/offer-review/",
+  "directory": "https://fullypowered.ai/workflows/offer-review/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

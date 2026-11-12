@@ -2,7 +2,7 @@
 
 A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-outreach-drafting/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-outreach-drafting/)*
 
 ## The outcome
 
@@ -77,7 +77,7 @@ Testing in your environment means running it on a past campaign your team rememb
 
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
 - [Creator brief](../creator-brief/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
 
 ## Make it yours
 

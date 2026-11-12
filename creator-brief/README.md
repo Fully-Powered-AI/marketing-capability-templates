@@ -2,7 +2,7 @@
 
 A brand marketer gets one brief per creator for a campaign: the product statements the brand has cleared, word for word, the disclosure that creator's platform needs, their own code and link, the dates and the review round. Nothing reaches a creator until a person reads it and sends it.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-brief/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-brief/)*
 
 ## The outcome
 
@@ -75,7 +75,7 @@ Testing in your environment means running it on a past campaign your team knows 
 
 - [Brand strategy workshop](../brand-strategy-workshop/)
 - [Launch checklist](../launch-checklist/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

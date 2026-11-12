@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.",
-  "directory": "https://fullypowered.ai/workflow templates/referral-programme-design/",
+  "directory": "https://fullypowered.ai/workflows/referral-programme-design/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

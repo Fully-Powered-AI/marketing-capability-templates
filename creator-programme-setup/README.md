@@ -2,7 +2,7 @@
 
 A brand owner or marketing lead writes the rules for working with creators once, in one file: products and cleared statements, platforms, how creators are paid with the arithmetic behind it, codes, payouts, disclosure, brand safety and roles. Every line is the owner's ruling, marked with its source.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-programme-setup/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-programme-setup/)*
 
 ## The outcome
 
@@ -75,7 +75,7 @@ Testing in your environment means running it with your owner on hard cases writt
 
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/workflow templates/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
 
 ## Make it yours
 

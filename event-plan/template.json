@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.",
-  "directory": "https://fullypowered.ai/workflow templates/event-plan/",
+  "directory": "https://fullypowered.ai/workflows/event-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

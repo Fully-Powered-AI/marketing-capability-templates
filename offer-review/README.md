@@ -2,7 +2,7 @@
 
 Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/offer-review/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/offer-review/)*
 
 ## The outcome
 
@@ -84,7 +84,7 @@ Testing in your environment means running it on an offer your team already knows
 
 ## Related workflow templates
 
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 

@@ -2,7 +2,7 @@
 
 Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/event-plan/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/event-plan/)*
 
 ## The outcome
 
@@ -94,7 +94,7 @@ Testing in your environment means running it on an event your team remembers wel
 
 - [Launch checklist](../launch-checklist/)
 - [Email sequence drafting](../email-sequence-drafting/)
-- [Sales call preparation brief](https://fullypowered.ai/workflow templates/sales-call-preparation-brief/)
+- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/)
 
 ## Make it yours
 

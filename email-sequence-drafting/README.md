@@ -2,7 +2,7 @@
 
 People who asked to hear from you get emails worth opening: a welcome, a nurture sequence or a new customer's onboarding, drafted in your voice, each email with one job and one ask, every claim traced to your own facts, and a clear end. You read, load and send them yourself.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/email-sequence-drafting/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/email-sequence-drafting/)*
 
 ## The outcome
 
@@ -85,9 +85,9 @@ Testing in your environment means running it on a sign-up you know well, plus ha
 
 ## Related workflow templates
 
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
-- [Customer reply drafting](https://fullypowered.ai/workflow templates/customer-reply-drafting/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
 
 ## Make it yours
 

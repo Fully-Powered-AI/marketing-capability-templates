@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A marketer or owner gets the plan for one free resource built on a question buyers really ask: who it is for, what it promises and delivers, a format the team can make in the hours it has, the outline section by section, and whether it needs a form at all.",
-  "directory": "https://fullypowered.ai/workflow templates/lead-magnet-plan/",
+  "directory": "https://fullypowered.ai/workflows/lead-magnet-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

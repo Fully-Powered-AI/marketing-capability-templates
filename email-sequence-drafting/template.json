@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "People who asked to hear from you get emails worth opening: a welcome, a nurture sequence or a new customer's onboarding, drafted in your voice, each email with one job and one ask, every claim traced to your own facts, and a clear end. You read, load and send them yourself.",
-  "directory": "https://fullypowered.ai/workflow templates/email-sequence-drafting/",
+  "directory": "https://fullypowered.ai/workflows/email-sequence-drafting/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

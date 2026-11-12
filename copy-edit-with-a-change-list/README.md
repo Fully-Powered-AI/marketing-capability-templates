@@ -2,7 +2,7 @@
 
 Hand over a page, an email or a brochure and get it back plainer and tighter, with no claim stronger than the statements you can support and a change list that shows every edit, its reason and any meaning it moved. You approve each change before the copy is used.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/copy-edit-with-a-change-list/)*
 
 ## The outcome
 
@@ -90,7 +90,7 @@ Testing in your environment means running it on copy your approver already knows
 
 - [Recorded sessions into articles](../recorded-sessions-into-articles/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
-- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)
 
 ## Make it yours
 

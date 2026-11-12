@@ -2,7 +2,7 @@
 
 Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/customer-interview-synthesis/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-interview-synthesis/)*
 
 ## The outcome
 
@@ -87,9 +87,9 @@ Testing in your environment means running it on a round of notes someone on your
 
 ## Related workflow templates
 
-- [SOP exception capture](https://fullypowered.ai/workflow templates/sop-exception-capture/)
-- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 

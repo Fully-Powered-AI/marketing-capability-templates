@@ -2,7 +2,7 @@
 
 An owner or first marketing hire gets the next ninety days of marketing on one plan: the stage the business is really in, the moves that fit it, who owns each one, the money and hours they use, and what is deliberately left undone. Every count comes from your own records, and no budget is invented.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/ninety-day-marketing-plan/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ninety-day-marketing-plan/)*
 
 ## The outcome
 
@@ -87,7 +87,7 @@ Testing in your environment means running it on a past quarter your team remembe
 
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
 - [Content plan](../content-plan/)
 
 ## Make it yours

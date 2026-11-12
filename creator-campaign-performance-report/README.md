@@ -2,7 +2,7 @@
 
 When a creator campaign closes, the marketing lead gets one report built from the store's own orders: what each creator brought in and cost, every creator ranked under a metric set beforehand, and a proposed next step for each. Every number is labelled measured, supplied or estimated.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-campaign-performance-report/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-campaign-performance-report/)*
 
 ## The outcome
 
@@ -88,7 +88,7 @@ Testing in your environment means running it on one or two past campaigns your t
 
 ## Related workflow templates
 
-- [Creator commission statement](https://fullypowered.ai/workflow templates/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
 - [Creator brief](../creator-brief/)
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
 

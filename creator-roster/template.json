@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "The programme owner keeps one record of every creator the brand works with: where each relationship stands, what each creator still owes the brand, what the brand still owes each creator, and when rights and exclusivity end. It is built from the files the owner supplies; nothing is sent or paid.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-roster/",
+  "directory": "https://fullypowered.ai/workflows/creator-roster/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-discovery-longlist/",
+  "directory": "https://fullypowered.ai/workflows/creator-discovery-longlist/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

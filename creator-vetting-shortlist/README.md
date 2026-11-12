@@ -2,7 +2,7 @@
 
 Before anyone contacts a creator, the program lead sees every name on the longlist scored on six lines, each backed by what was seen and when: audience fit, engagement quality, authenticity, brand safety, sponsored track record and contactability. A person chooses who to approach.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-vetting-shortlist/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-vetting-shortlist/)*
 
 ## The outcome
 
@@ -87,10 +87,10 @@ Testing in your environment means running it on creators your team has already v
 ## Related workflow templates
 
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/workflow templates/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 - [Brand strategy workshop](../brand-strategy-workshop/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
 
 ## Make it yours
 

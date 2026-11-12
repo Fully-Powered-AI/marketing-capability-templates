@@ -2,7 +2,7 @@
 
 A marketer or owner gets the plan for one free resource built on a question buyers really ask: who it is for, what it promises and delivers, a format the team can make in the hours it has, the outline section by section, and whether it needs a form at all.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/lead-magnet-plan/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lead-magnet-plan/)*
 
 ## The outcome
 

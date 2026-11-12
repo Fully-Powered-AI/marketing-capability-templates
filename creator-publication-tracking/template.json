@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.",
-  "directory": "https://fullypowered.ai/workflow templates/creator-publication-tracking/",
+  "directory": "https://fullypowered.ai/workflows/creator-publication-tracking/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

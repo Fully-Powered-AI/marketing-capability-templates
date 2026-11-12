@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An owner or marketer with one story to offer gets the outlets and writers it genuinely fits, each backed by a piece they recently published, and a short pitch draft for each. Every claim in a draft comes from facts you supply. Drafts only: a person decides and sends.",
-  "directory": "https://fullypowered.ai/workflow templates/press-pitch-preparation/",
+  "directory": "https://fullypowered.ai/workflows/press-pitch-preparation/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

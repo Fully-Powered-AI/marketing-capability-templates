@@ -2,7 +2,7 @@
 
 A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-publication-tracking/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-publication-tracking/)*
 
 ## The outcome
 

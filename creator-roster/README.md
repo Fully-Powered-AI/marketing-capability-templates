@@ -2,7 +2,7 @@
 
 The programme owner keeps one record of every creator the brand works with: where each relationship stands, what each creator still owes the brand, what the brand still owes each creator, and when rights and exclusivity end. It is built from the files the owner supplies; nothing is sent or paid.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-roster/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/creator-roster/)*
 
 ## The outcome
 
@@ -81,7 +81,7 @@ Testing in your environment means running it on a few past weeks of your own pro
 ## Related workflow templates
 
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
-- [Creator commission statement](https://fullypowered.ai/workflow templates/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/)
 - [Creator brief](../creator-brief/)
 
 ## Make it yours

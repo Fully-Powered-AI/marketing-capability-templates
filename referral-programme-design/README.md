@@ -2,7 +2,7 @@
 
 Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.
 
-*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/referral-programme-design/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/referral-programme-design/)*
 
 ## The outcome
 
@@ -83,8 +83,8 @@ Testing in your environment means running it on your own list with cases written
 
 ## Related workflow templates
 
-- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 
 ## Make it yours
