@@ -14,7 +14,7 @@ The inputs were the invented example in `public/example.md` (Saltbrook Candle Co
 - The output format and the instruction block now say to print only the one alternative that applies where a line offers several separated by a slash (observation 1), and to print nothing before or after the output (observation 3).
 - The Sources line of the format now keeps the "supplied in the request" mark for facts typed in place of a missing input (observation 2).
 - A creator whose safety_flag is review is now marked "(owner to decide)" in the run summary as well as in the notes. The example has no such creator.
-- The example's introduction now names the unmarked line "Cotton wick." as a fifth thing to look for, and no longer says its output is worded exactly as the capability returned. The example's inputs and output did not change.
+- The example's introduction now names the unmarked line "Cotton wick." as a fifth thing to look for, and no longer says its output is worded exactly as the workflow template returned. The example's inputs and output did not change.
 
 ## How the run was made
 

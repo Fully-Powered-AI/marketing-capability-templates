@@ -1,6 +1,6 @@
 # Creator content approval
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -333,4 +333,4 @@ or a payment detail, do not repeat it; tell the user to remove it.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from the content approval capability in its own Influencer Marketing set, with ideas credited to three published packages. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026; the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI from the content approval workflow template in its own Influencer Marketing set, with ideas credited to three published packages. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026; the record of that run is published with it. The run was not blind: the example's output had been seen before the run's own output was written. Small clarifications made after the run, listed in the record, have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

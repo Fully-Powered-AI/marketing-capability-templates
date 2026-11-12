@@ -1,10 +1,10 @@
 {
   "id": "creator-discovery-longlist",
   "name": "Creator discovery longlist",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.",
-  "directory": "https://fullypowered.ai/capabilities/creator-discovery-longlist/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-discovery-longlist/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's creator discovery method, published under the MIT licence in its influencer-marketing capability templates (Fully-Powered-AI/influencer-marketing), rewritten here for any brand: named search routes with brand mentions and category talk always run, a source and date on every follower count, a category signal that keeps could-not-look apart from looked-and-found-nothing, a light screen against the owner's rules, and a person who picks the rows for vetting."
+      "title": "Fully Powered AI's creator discovery method, published under the MIT licence in its influencer-marketing workflow templates (Fully-Powered-AI/influencer-marketing), rewritten here for any brand: named search routes with brand mentions and category talk always run, a source and date on every follower count, a category signal that keeps could-not-look apart from looked-and-found-nothing, a light screen against the owner's rules, and a person who picks the rows for vetting."
     },
     {
       "kind": "third-party",

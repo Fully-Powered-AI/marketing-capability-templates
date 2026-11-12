@@ -1,6 +1,6 @@
 # Lead magnet plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it when a marketer or an owner who does their own marketing wants one free r
 
 Do not use it:
 
-- to write the finished magnet. The plan gives the outline and the material each part draws on; a person, or another capability, writes it;
+- to write the finished magnet. The plan gives the outline and the material each part draws on; a person, or another workflow template, writes it;
 - to build a landing page, a sign-up form or an email sequence, or to set up a list;
 - to plan a whole year of content. Use a content plan for that;
 - to forecast downloads, sign-ups or sales. The plan sets no figure that nobody supplied;

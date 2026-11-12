@@ -2,7 +2,7 @@
 
 A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.
 
-*Capability template · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/creator-publication-tracking/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-publication-tracking/)*
 
 ## The outcome
 
@@ -41,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Write down your disclosure forms for each platform and format, with your wording and the words that do not count; the capability adds none of its own. Disclosure rules differ from country to country, so a person at your company decides whether your rules suit each country your creators reach. Set your correction window and the minimum days a post stays up, and quote the matching terms you sign with creators. Choose your check days and decide whether stories, which can vanish by themselves, get the later checks. Agree who keeps the post log, who sends fix requests and who decides fees. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no access to your social accounts or your store.
+Write down your disclosure forms for each platform and format, with your wording and the words that do not count; the workflow template adds none of its own. Disclosure rules differ from country to country, so a person at your company decides whether your rules suit each country your creators reach. Set your correction window and the minimum days a post stays up, and quote the matching terms you sign with creators. Choose your check days and decide whether stories, which can vanish by themselves, get the later checks. Agree who keeps the post log, who sends fix requests and who decides fees. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no access to your social accounts or your store.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words, from the publication tracking capability in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words, from the publication tracking template in its own Influencer Marketing set. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with it. That run found several points the instructions left open, chiefly two: where a creator's message that a fix is done belongs, and whether the result line counts bullets or items. After the run, a few sentences were added to the instructions and the output format to settle those and the other points it raised, and the example's wording was brought closer to its inputs in a few places; the example's inputs and its counts did not change. These edits have not been run again, and the record lists them. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past campaign your team remembers well, with hard cases written in advance: a disclosure buried in the hashtags, a code in the wrong letter case, a link with an extra "www", a fix the creator says is done but nobody has looked at, a post that came down in its first week. The programme lead checks every date and every "match" against the posts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past campaign your team remembers well, with hard cases written in advance: a disclosure buried in the hashtags, a code in the wrong letter case, a link with an extra "www", a fix the creator says is done but nobody has looked at, a post that came down in its first week. The programme lead checks every date and every "match" against the posts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -58,11 +58,11 @@ Testing in your environment means running it on a past campaign your team rememb
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -72,7 +72,7 @@ Testing in your environment means running it on a past campaign your team rememb
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Creator brief](../creator-brief/)
 - [Creator content approval](../creator-content-approval/)
@@ -80,4 +80,4 @@ Testing in your environment means running it on a past campaign your team rememb
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

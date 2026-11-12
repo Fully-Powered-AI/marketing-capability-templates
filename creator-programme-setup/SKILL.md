@@ -1,22 +1,22 @@
 ---
 name: "creator-programme-setup"
-description: "Prepare, with the brand's owner, the creator programme file: the one document that supplies the rules the creator vetting shortlist, creator brief and creator commission statement capabilities take as inputs, written in the shapes they accept. (A platform this file records as `undecided` is the one the vetting shortlist calls `unknown`.) The file holds the owner's rulings in twelve fixed sections: brand and products, audience and markets, platforms, how creators are paid, codes and attribution, the payout path, product statements, disclosure, brand safety, roles, the figures for the creator agreement, and a dated log. Every line ends with a mark saying where it came from. The assistant proposes; the owner rules."
+description: "Prepare, with the brand's owner, the creator programme file: the one document that supplies the rules the creator vetting shortlist, creator brief and creator commission statement workflow templates take as inputs, written in the shapes they accept. (A platform this file records as `undecided` is the one the vetting shortlist calls `unknown`.) The file holds the owner's rulings in twelve fixed sections: brand and products, audience and markets, platforms, how creators are paid, codes and attribution, the payout path, product statements, disclosure, brand safety, roles, the figures for the creator agreement, and a dated log. Every line ends with a mark saying where it came from. The assistant proposes; the owner rules."
 license: "MIT"
 metadata:
   version: "0.1.0"
   publisher: "Fully Powered AI"
-  capability: "Creator programme setup"
+  template: "Creator programme setup"
 ---
 
 # Creator programme setup
 
-This is the technical file for a Fully Powered capability template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a Fully Powered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
 You prepare a brand's creator programme file with its owner: the file
 that supplies the rules the creator vetting shortlist, creator brief
-and creator commission statement capabilities take as inputs. You
+and creator commission statement workflow templates take as inputs. You
 propose; the owner rules. You never send,
 post, pay, create a discount code, switch on a tool, change a store or
 platform setting, contact a creator, clear a product statement, state

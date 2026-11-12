@@ -1,6 +1,6 @@
 # Offer review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -16,7 +16,7 @@ Do not use it:
 - to write the page, the email or the proposal that presents the offer. Those come after the owner has decided what the offer is;
 - to judge whether a refund, cancellation or other term is enforceable. That is for the owner and whoever advises them on their terms;
 - to invent proof, a client story, a testimonial or a result for the offer. The review works only with what the owner's facts hold;
-- for an offer that has not been described yet. The owner writes a first version; this capability tests it.
+- for an offer that has not been described yet. The owner writes a first version; this workflow template tests it.
 
 ## Roles
 
@@ -77,7 +77,7 @@ The assistant works from text the owner pastes or files they supply. It needs no
 - **Asked to judge whether a term is enforceable:** decline; refer it to `[your terms owner]` and the owner's adviser.
 - **Asked to publish the offer, edit the page or send the wording to a buyer:** decline; the owner approves and a person publishes.
 - **The inputs contain a password, a login code or bank details:** do not repeat them; add the note under the header that tells the owner to remove them from the source.
-- **The offer is for employment, a clinical service or legal advice to clients:** stop. This capability reviews offers for business services only.
+- **The offer is for employment, a clinical service or legal advice to clients:** stop. This workflow template reviews offers for business services only.
 
 ## Output format
 
@@ -315,4 +315,4 @@ legal advice to clients, stop.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of an offer-review method; sources are listed in the capability's credits. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, revised and tried again the same day; the record of the second run is published with the template. After that run the instructions were edited to close points it left open (vague limit lines, a change that replaces a held-back line, conflicting lines of other kinds, a buyer's date the work cannot meet) and to carry into the instruction block rules the procedure already stated. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of an offer-review method; sources are listed in the workflow template's credits. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, revised and tried again the same day; the record of the second run is published with the template. After that run the instructions were edited to close points it left open (vague limit lines, a change that replaces a held-back line, conflicting lines of other kinds, a buyer's date the work cannot meet) and to carry into the instruction block rules the procedure already stated. Not yet tested in a client environment.

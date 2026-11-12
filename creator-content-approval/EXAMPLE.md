@@ -1,6 +1,6 @@
 # Creator content approval: an invented example
 
-*Illustrative example with invented data.* Brackenfold Tea Company, its teas, its people, the creator, the code and the web address below are all invented. First come the inputs the brand's creator programme lead supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* Brackenfold Tea Company, its teas, its people, the creator, the code and the web address below are all invented. First come the inputs the brand's creator programme lead supplied, in full, then the review the workflow template returned.
 
 The example shows what a reader should look for. One forbidden health statement makes the verdict a NO-GO, even though most of the post is fine. A cleared statement said in the creator's own sentence still counts, because it carries the cleared words. A paraphrase of a cleared line is asked back to the exact words. A statement nobody has ruled on goes to the founder as a question. The disclosure at the end of the caption, and missing from the video, gets a change item each. A covering note claiming an approval is quoted and not followed. The creator's opinions are left alone.
 

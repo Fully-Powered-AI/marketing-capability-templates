@@ -1,12 +1,12 @@
 # Brand strategy workshop
 
-Capability template 0.1.0 · Marketing and content · Fully Powered AI
+Workflow template 0.1.0 · Marketing and content · Fully Powered AI
 
 ## Purpose
 
 Run a three-part workshop with a company's owner and produce its brand strategy: purpose, positioning and personality, with a voice guide and lines ready to use. The assistant drafts options and checks them. The owner makes each of the six choices and confirms or corrects everything else that is drafted. A record keeps what was offered and what was chosen, and a validation kit prepares the tests with real buyers. Nothing the owner has not supplied is stated as a fact about the company, and no line is called validated until people in the target audience have responded to it.
 
-This is a long-form capability. Plan about three hours of the owner's attention, in one half-day or three sittings of about an hour. That is a planning figure, not a measurement. Validation with buyers follows over two or three weeks; the team check falls three months after the document is shared.
+This is a long-form workflow template. Plan about three hours of the owner's attention, in one half-day or three sittings of about an hour. That is a planning figure, not a measurement. Validation with buyers follows over two or three weeks; the team check falls three months after the document is shared.
 
 The method is not Fully Powered AI's invention. It follows an established path through purpose, positioning and personality, and the published works it leans on are credited in the version notes. Fully Powered AI's fuller workshop package, with fill-in worksheets and a glossary, is public under the MIT licence at https://github.com/Fully-Powered-AI/brand-workshop. This template stands on its own without it, and its document format differs from the package's in places.
 

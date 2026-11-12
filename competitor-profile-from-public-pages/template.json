@@ -1,10 +1,10 @@
 {
   "id": "competitor-profile-from-public-pages",
   "name": "Competitor profile from public pages",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.",
-  "directory": "https://fullypowered.ai/capabilities/competitor-profile-from-public-pages/",
+  "directory": "https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -48,7 +48,7 @@
       "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
       "path": "skills/competitor-profiling",
       "licence": "MIT",
-      "contribution": "The method this capability rewrites: profile each competitor in one fixed shape, keep what was observed apart from what is inferred, and mark a figure unavailable when no source states it.",
+      "contribution": "The method this workflow template rewrites: profile each competitor in one fixed shape, keep what was observed apart from what is inferred, and mark a figure unavailable when no source states it.",
       "text_reused": false,
       "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
     }

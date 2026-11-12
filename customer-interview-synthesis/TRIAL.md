@@ -4,7 +4,7 @@
 - Model: Claude Fable 5.2
 - Date: 2026-11-09
 
-The inputs are the invented example published with this capability template. The company, the studios, the people and every quoted word are invented. No client data was used, and this is a record of one run, not of use in a client's environment.
+The inputs are the invented example published with this workflow template. The company, the studios, the people and every quoted word are invented. No client data was used, and this is a record of one run, not of use in a client's environment.
 
 This is the third run. Two earlier runs the same day, on earlier drafts of the instructions, each found places where they were unclear, and the instructions were revised after each. Before this run the instructions and the example were changed once more, for a different reason: a review of where the template's ideas came from. This file records the third run in full; what the earlier runs found and what was changed is listed near the end.
 

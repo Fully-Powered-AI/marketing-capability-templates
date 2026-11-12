@@ -2,7 +2,7 @@
 
 Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.
 
-*Capability template · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/offer-review/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/offer-review/)*
 
 ## The outcome
 
@@ -55,9 +55,9 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template, and it was editorially reviewed on 9 November 2026. That day it was tried in Claude on its invented example, revised, then tried a second time; the record of the second run is published with the template, and a few small clarifications were made to the instructions after it. It has not been tested in a client environment yet, nor as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template, and it was editorially reviewed on 9 November 2026. That day it was tried in Claude on its invented example, revised, then tried a second time; the record of the second run is published with the template, and a few small clarifications were made to the instructions after it. It has not been tested in a client environment yet, nor as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an offer your team already knows well, plus hard cases written in advance, each with its expected behavior: a guarantee your terms do not hold, a "limited spots" line with no real limit, an export whose columns do not match, a request for a discount. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on an offer your team already knows well, plus hard cases written in advance, each with its expected behavior: a guarantee your terms do not hold, a "limited spots" line with no real limit, an export whose columns do not match, a request for a discount. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -68,11 +68,11 @@ Testing in your environment means running it on an offer your team already knows
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -82,12 +82,12 @@ Testing in your environment means running it on an offer your team already knows
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Objection answers and sales one-pager](https://fullypowered.ai/capabilities/objection-answers-and-sales-one-pager/)
+- [Objection answers and sales one-pager](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)
 - [Customer interview synthesis](../customer-interview-synthesis/)
 - [Competitor profile from public pages](../competitor-profile-from-public-pages/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

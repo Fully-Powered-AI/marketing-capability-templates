@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (Marrow Lane Coffee Roasters, its facts note, the story, the request and the seven saved pages). No client data was used. The run followed the fenced instruction block and the output format in the capability template, version 0.1.0, and was made once.
+The inputs are the invented example in `public/example.md` (Marrow Lane Coffee Roasters, its facts note, the story, the request and the seven saved pages). No client data was used. The run followed the fenced instruction block and the output format in the workflow template, version 0.1.0, and was made once.
 
 **Edited after this run, 9 November 2026.** Following the independent review, the template and the published example were edited after the run recorded here, and the run was not repeated. The output and the observations below are left as recorded, so where they describe the template or the published example, they describe them as they were at the time of the run. What changed:
 
@@ -167,4 +167,4 @@ Status: drafts for the marketing coordinator's review. Nothing was sent, posted 
   - The step 8 trace is a promise, not a mechanism. The drafts carry "Uses:" lists, but nothing makes the assistant mark where each fact appears in the body, so a reviewer must check by reading.
   - Where several facts could carry a follow-up the template does not say which to prefer.
   - The reviewer checklist's role names (Approver, Spokesperson) are not explained against steps in the procedure.
-  - A trial on one invented example, by the assistant that did not write the template but had seen the answer, shows that the instructions can be followed to a complete output. It does not show the capability works with real outlets, live pages or a real spokesperson.
+  - A trial on one invented example, by the assistant that did not write the template but had seen the answer, shows that the instructions can be followed to a complete output. It does not show the workflow template works with real outlets, live pages or a real spokesperson.

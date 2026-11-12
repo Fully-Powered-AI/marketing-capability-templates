@@ -1,10 +1,10 @@
 {
   "id": "creator-campaign-performance-report",
   "name": "Creator campaign performance report",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a creator campaign closes, the marketing lead gets one report built from the store's own orders: what each creator brought in and cost, every creator ranked under a metric set beforehand, and a proposed next step for each. Every number is labelled measured, supplied or estimated.",
-  "directory": "https://fullypowered.ai/capabilities/creator-campaign-performance-report/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-campaign-performance-report/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -39,7 +39,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "The performance report in Fully Powered AI's own influencer-marketing capability templates (MIT, Fully-Powered-AI/influencer-marketing), rewritten here as a self-contained template that works from files a person supplies: one metric set before the run, every creator ranked, every number labelled measured, supplied or estimated, and a person who decides each creator's next step."
+      "title": "The performance report in Fully Powered AI's own influencer-marketing workflow templates (MIT, Fully-Powered-AI/influencer-marketing), rewritten here as a self-contained template that works from files a person supplies: one metric set before the run, every creator ranked, every number labelled measured, supplied or estimated, and a person who decides each creator's next step."
     },
     {
       "kind": "third-party",

@@ -1,10 +1,10 @@
 {
   "id": "creator-content-reuse-plan",
   "name": "Creator content reuse plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A brand marketer sees which published creator posts may be reused on which of the brand's channels, read only from the usage rights they supply, with every placement ending before the rights do. Where the rights are silent or unclear, the question goes to whoever reviews contracts.",
-  "directory": "https://fullypowered.ai/capabilities/creator-content-reuse-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-content-reuse-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -40,7 +40,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "The content reuse capability in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its rights states, cut types, disclosure and code rules, plan check and take-down list."
+      "title": "The content reuse workflow template in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its rights states, cut types, disclosure and code rules, plan check and take-down list."
     },
     {
       "kind": "third-party",

@@ -2,7 +2,7 @@
 
 Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.
 
-*Capability template · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/brand-strategy-workshop/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/brand-strategy-workshop/)*
 
 ## The outcome
 
@@ -52,9 +52,9 @@ The workshop stops at words. Logo, colour, type and naming are separate work, an
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words, from its own Brand Workshop. The method itself comes from published work on brand strategy, which the sources and credits name. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, with the owner's part played. There were three runs, and the record published with the template describes the last. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words, from its own Brand Workshop. The method itself comes from published work on brand strategy, which the sources and credits name. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, with the owner's part played. There were three runs, and the record published with the template describes the last. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your own company and reading the result against the record: every chosen line appears word for word, nothing about the company was made up, and every untested line is labelled. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) sets up cases like these, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on your own company and reading the result against the record: every chosen line appears word for word, nothing about the company was made up, and every untested line is labelled. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up cases like these, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -65,11 +65,11 @@ Testing in your environment means running it on your own company and reading the
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -79,12 +79,12 @@ Testing in your environment means running it on your own company and reading the
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Sales proposal preparation](https://fullypowered.ai/capabilities/sales-proposal-preparation/)
-- [Employee onboarding plan](https://fullypowered.ai/capabilities/employee-onboarding-plan/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/)
+- [Sales proposal preparation](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflow templates/employee-onboarding-plan/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflow templates/pilot-acceptance-test-preparation/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

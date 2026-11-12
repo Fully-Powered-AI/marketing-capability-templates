@@ -1,10 +1,10 @@
 # Affiliate onboarding: an invented example
 
-*Illustrative example with invented data.* The company, the creator, the codes, the web address, the order and the dates below are all invented. Quillmoor Tea Company is an invented online loose-leaf tea shop with 14 staff. Its creator programme is run by a programme lead; an operations lead makes codes, runs checkout tests and ships gifts; the finance team pays creators. First come the inputs the programme lead supplied, in full, then what the capability returned.
+*Illustrative example with invented data.* The company, the creator, the codes, the web address, the order and the dates below are all invented. Quillmoor Tea Company is an invented online loose-leaf tea shop with 14 staff. Its creator programme is run by a programme lead; an operations lead makes codes, runs checkout tests and ships gifts; the finance team pays creators. First come the inputs the programme lead supplied, in full, then what the workflow template returned.
 
 ## The inputs
 
-### 1. Programme rules (the lines the capability reads)
+### 1. Programme rules (the lines the workflow template reads)
 
 ```
 Customer discount on each creator's code: 15 percent

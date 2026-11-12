@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. The inputs are the invented example's; the firm, its people and every question are invented, and no client data was used. Nothing was written, scheduled, published or sent, and no one was contacted.
+This is a record of one run of the workflow template on its own invented example. The inputs are the invented example's; the firm, its people and every question are invented, and no client data was used. Nothing was written, scheduled, published or sent, and no one was contacted.
 
 An earlier run the same day, on the template before an editorial review's points were applied, found several places where the instructions had to be guessed at. The template was changed, and the run recorded here was made on the changed text. Both are described below: first this run, then the earlier run's findings and the change each led to.
 

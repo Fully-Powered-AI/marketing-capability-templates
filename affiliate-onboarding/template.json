@@ -1,10 +1,10 @@
 {
   "id": "affiliate-onboarding",
   "name": "Affiliate onboarding",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.",
-  "directory": "https://fullypowered.ai/capabilities/affiliate-onboarding/",
+  "directory": "https://fullypowered.ai/workflow templates/affiliate-onboarding/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

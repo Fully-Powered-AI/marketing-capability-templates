@@ -2,7 +2,7 @@
 
 A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.
 
-*Capability template · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/creator-outreach-drafting/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/creator-outreach-drafting/)*
 
 ## The outcome
 
@@ -42,13 +42,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Write down your standard offer and name who approves anything beyond it; the capability adds no offer of its own. Decide which account sends on each channel, whether your sender writes as the brand or as themselves, and the sign-off. Choose the follow-up facts you are happy to repeat to every creator, and list the subjects you treat as terms for the written agreement. Match the creator list columns to your own export. Decide how many follow-ups you send and how far apart. A person at your company decides whether your outreach meets the rules on unsolicited messages where your creators live, taking advice where needed. It runs in ChatGPT, Claude, Copilot or Gemini from files you supply, with no access to your social accounts or your inbox.
+Write down your standard offer and name who approves anything beyond it; the workflow template adds no offer of its own. Decide which account sends on each channel, whether your sender writes as the brand or as themselves, and the sign-off. Choose the follow-up facts you are happy to repeat to every creator, and list the subjects you treat as terms for the written agreement. Match the creator list columns to your own export. Decide how many follow-ups you send and how far apart. A person at your company decides whether your outreach meets the rules on unsolicited messages where your creators live, taking advice where needed. It runs in ChatGPT, Claude, Copilot or Gemini from files you supply, with no access to your social accounts or your inbox.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words, from the creator outreach method in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in Claude. The record published with it is of one fresh run, made by an independent reviewer on the template as it now stands, and it lists every difference from the example. An earlier run the same day led to two changes, which the record names: one note on the output format was made clearer, and one message in the example was reordered to follow the instructions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past campaign your team remembers, with hard cases written in advance: a creator who asked not to be contacted, a list note asking for a fee, a follow-up fact that is really a payment term, a creator with no post named. The sender checks every opener against the creator's real post before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past campaign your team remembers, with hard cases written in advance: a creator who asked not to be contacted, a list note asking for a fee, a follow-up fact that is really a payment term, a creator with no post named. The sender checks every opener against the creator's real post before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -59,11 +59,11 @@ Testing in your environment means running it on a past campaign your team rememb
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,12 +73,12 @@ Testing in your environment means running it on a past campaign your team rememb
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Creator vetting shortlist](../creator-vetting-shortlist/)
 - [Creator brief](../creator-brief/)
-- [Cold outreach sequence drafting](https://fullypowered.ai/capabilities/cold-outreach-sequence-drafting/)
+- [Cold outreach sequence drafting](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

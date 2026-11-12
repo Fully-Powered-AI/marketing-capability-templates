@@ -1,6 +1,6 @@
 # Creator vetting shortlist
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it:
 
 - to find creators. The longlist comes first, from whoever searches for them;
 - to set fees, commission or other terms, or to write the first message. Those follow once the lead has approved the shortlist;
-- to write or change the brand's rules on content, audience or redlines. The owner decides those; this capability applies them as written;
+- to write or change the brand's rules on content, audience or redlines. The owner decides those; this workflow template applies them as written;
 - to say whether a creator's past posts met advertising disclosure rules in a given country. It records only whether a post visibly carries an ad or partnership label;
 - to judge people for a job or any other role inside the business. It assesses public creator accounts for marketing partnerships only.
 
@@ -87,7 +87,7 @@ The assistant works from files and notes the lead supplies, and from public page
 - **Asked to work out a rate from a media kit or a guess, or to give a verdict without the numbers:** decline. Rates come from posts, or there is no rate.
 - **Asked to decide whether something is acceptable for the brand:** do not decide. Write `owner to rule` with the question and score what is plainly visible.
 - **Asked to record a private or leaked contact address:** decline. Public routes only.
-- **Asked to assess a person for employment, or to vet anyone who is not a public creator account:** stop. This capability covers marketing partnerships only.
+- **Asked to assess a person for employment, or to vet anyone who is not a public creator account:** stop. This workflow template covers marketing partnerships only.
 - **Any sign a creator is under 18:** brand safety 0, verdict exclude, and say so plainly to the lead.
 
 ## Output format
@@ -337,4 +337,4 @@ decides or what is needed. Any sign a creator is under 18: brand safety
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from its own creator-vetting method, published in its influencer-marketing set; sources are listed in the capability's credits. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions, the output format and the example were revised after the first (brand safety with an open question, authenticity 0 or 1, follower labels, when a run is partial, the stop conditions in the pasted instructions, the order of equal totals, and the example's posts and notes), and the second is the run recorded. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI from its own creator-vetting method, published in its influencer-marketing set; sources are listed in the workflow template's credits. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions, the output format and the example were revised after the first (brand safety with an open question, authenticity 0 or 1, follower labels, when a run is partial, the stop conditions in the pasted instructions, the order of equal totals, and the example's posts and notes), and the second is the run recorded. Not yet tested in a client environment.

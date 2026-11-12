@@ -2,7 +2,7 @@
 
 A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.
 
-*Capability template · Marketing and content · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/affiliate-onboarding/)*
+*Workflow template · Marketing and content · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/affiliate-onboarding/)*
 
 ## The outcome
 
@@ -42,13 +42,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Write your programme rules first; this capability reads them and sets none of its own. The [creator programme setup](https://fullypowered.ai/capabilities/creator-programme-setup/) capability prepares them with your owner. Name who makes codes and runs the checkout test, who sends the pack, who keeps the roster and who pays. Write the fixed sentences of the pack once in your own voice. Set the timing of the first-weeks checks. Keep the brief separate: the [creator brief](https://fullypowered.ai/capabilities/creator-brief/) carries what a creator may say about your products, and the [creator commission statement](https://fullypowered.ai/capabilities/creator-commission-statement/) works out what they are owed later. Your adviser handles the creator agreement itself. It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply, with no access to your store, your affiliate tool or your bank.
+Write your programme rules first; this workflow template reads them and sets none of its own. The [creator programme setup](https://fullypowered.ai/workflows/creator-programme-setup/) workflow template prepares them with your owner. Name who makes codes and runs the checkout test, who sends the pack, who keeps the roster and who pays. Write the fixed sentences of the pack once in your own voice. Set the timing of the first-weeks checks. Keep the brief separate: the [creator brief](https://fullypowered.ai/workflows/creator-brief/) carries what a creator may say about your products, and the [creator commission statement](https://fullypowered.ai/workflows/creator-commission-statement/) works out what they are owed later. Your adviser handles the creator agreement itself. It runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply, with no access to your store, your affiliate tool or your bank.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template in its own words, from the affiliate onboarding work in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 9 November 2026 in two runs, the second after the first review's changes; the record of the second is published with it, and lists the small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template in its own words, from the affiliate onboarding work in its own Influencer Marketing set. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 9 November 2026 in two runs, the second after the first review's changes; the record of the second is published with it, and lists the small edit made afterward that has not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past onboardings your programme owner remembers, plus hard cases written in advance: a code that matches an old ended one, a link with nothing that names the creator, a checkout that showed the wrong discount, a codes export with renamed columns, a request to add a product claim. Your programme owner checks every figure against the rules before a pack goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past onboardings your programme owner remembers, plus hard cases written in advance: a code that matches an old ended one, a link with nothing that names the creator, a checkout that showed the wrong discount, a codes export with renamed columns, a request to add a product claim. Your programme owner checks every figure against the rules before a pack goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -59,11 +59,11 @@ Testing in your environment means running it on past onboardings your programme 
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -73,13 +73,13 @@ Testing in your environment means running it on past onboardings your programme 
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Creator programme setup](../creator-programme-setup/)
 - [Creator roster](../creator-roster/)
 - [Creator brief](../creator-brief/)
-- [Creator commission statement](https://fullypowered.ai/capabilities/creator-commission-statement/)
+- [Creator commission statement](https://fullypowered.ai/workflow templates/creator-commission-statement/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

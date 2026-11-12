@@ -2,7 +2,7 @@
 
 *Illustrative example with invented data.* Bramblewick Outdoor is an invented online seller of lightweight camp stoves and cook sets. Its founder, its brand marketer, the creators, their handles, posts, counts and contact pages, the competitor brands Cinderpeak and Hollowfern Gear, and the talent agency Fieldnote Talent are all invented; no real company, person or account is described. Addresses use the reserved `.example` domain so that none points at a real page.
 
-The brand marketer wants creators for the spring launch of a new stove. Their AI product cannot read web pages, so the assistant first listed the searches, the marketer ran them on their own phone and laptop, and pasted back what they saw. First come the inputs the marketer supplied, in full, then the longlist the capability returned.
+The brand marketer wants creators for the spring launch of a new stove. Their AI product cannot read web pages, so the assistant first listed the searches, the marketer ran them on their own phone and laptop, and pasted back what they saw. First come the inputs the marketer supplied, in full, then the longlist the workflow template returned.
 
 ## The inputs
 
@@ -162,7 +162,7 @@ M. Category searches "Cinderpeak", "Hollowfern Gear" and "backpacking
    @campfire_carla again (the 28 Sep post). Nobody new.
 ```
 
-## The longlist the capability returned
+## The longlist the workflow template returned
 
 ```
 CREATOR DISCOVERY LONGLIST: Bramblewick Outdoor, spring Wisp 2 launch

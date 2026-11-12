@@ -1,6 +1,6 @@
 # Press pitch preparation
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,11 +12,11 @@ Use it when an owner or a marketer has one story to offer the press: a change in
 
 Do not use it:
 
-- to write a press release, a news announcement for your own site or a social post. Those are your own channels; this capability prepares a note to a writer at someone else's;
-- to answer an incident, a complaint or criticism in public. That needs confirmed facts, one accountable spokesperson and, where it matters, qualified advice; this capability declines it;
+- to write a press release, a news announcement for your own site or a social post. Those are your own channels; this workflow template prepares a note to a writer at someone else's;
+- to answer an incident, a complaint or criticism in public. That needs confirmed facts, one accountable spokesperson and, where it matters, qualified advice; this workflow template declines it;
 - to prepare for an interview already agreed. The questions and answers are a different piece of work;
 - to build a contact database or guess anyone's email address;
-- to buy or arrange paid placement, sponsored content or advertising. Those are not editorial coverage, and the capability drops any outlet route that leads to them.
+- to buy or arrange paid placement, sponsored content or advertising. Those are not editorial coverage, and the workflow template drops any outlet route that leads to them.
 
 ## Roles
 
@@ -256,4 +256,4 @@ leave that person out and ask.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of a press pitching method; sources are listed in the capability's credits. Tried on its invented example on 9 November 2026 in Claude, in one run that was not blind; the record is published with it. Edited after that run, following the independent review: the procedure and instruction block now say how to handle an ask that differs from the outlet's guidance, which fact to prefer for a follow-up, that counts are never added up across dates, that a dated fact is confirmed before its follow-up goes, and how to ask for a working copy with fact numbers; the reviewer checklist names its steps; the output format's Ask line gained a reason. The example's follow-ups no longer state a count the inputs do not give, and the record lists the edits. After a second review, the instruction block also states the default approver, the stop when every outlet is weak, leaving out a private person who has not agreed, and declining matters a court or regulator is involved in, all already in the procedure and exceptions; in the example, one Ask line now states how it changed from the request, two saved pages lose their elision marks, and the fourth outlet has a new invented name. The record lists these edits too. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of a press pitching method; sources are listed in the workflow template's credits. Tried on its invented example on 9 November 2026 in Claude, in one run that was not blind; the record is published with it. Edited after that run, following the independent review: the procedure and instruction block now say how to handle an ask that differs from the outlet's guidance, which fact to prefer for a follow-up, that counts are never added up across dates, that a dated fact is confirmed before its follow-up goes, and how to ask for a working copy with fact numbers; the reviewer checklist names its steps; the output format's Ask line gained a reason. The example's follow-ups no longer state a count the inputs do not give, and the record lists the edits. After a second review, the instruction block also states the default approver, the stop when every outlet is weak, leaving out a private person who has not agreed, and declining matters a court or regulator is involved in, all already in the procedure and exceptions; in the example, one Ask line now states how it changed from the request, two saved pages lose their elision marks, and the fourth outlet has a new invented name. The record lists these edits too. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

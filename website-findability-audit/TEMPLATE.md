@@ -1,6 +1,6 @@
 # Website findability audit
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -349,4 +349,4 @@ not repeat it; tell the user to remove it.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of the search-readiness and AI-discovery methods it uses for its own website; the sources are listed in the capability's credits. Editorially reviewed. Tried once on its invented example on 9 November 2026, in Claude; the record is published with it. That run was not blind to the published output, so a blind run is still to do. After an independent review the same day, the U5 rule on which statements count as facts, the matching example rows, two unsupported phrases in the example's fixes, and several rules copied from the procedure into the pasted instructions were changed; those edits have not been run again, and the trial record lists them. A second set of small edits the same day, after the review's minor points, has not been run either; the trial record lists it too. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of the search-readiness and AI-discovery methods it uses for its own website; the sources are listed in the workflow template's credits. Editorially reviewed. Tried once on its invented example on 9 November 2026, in Claude; the record is published with it. That run was not blind to the published output, so a blind run is still to do. After an independent review the same day, the U5 rule on which statements count as facts, the matching example rows, two unsupported phrases in the example's fixes, and several rules copied from the procedure into the pasted instructions were changed; those edits have not been run again, and the trial record lists them. A second set of small edits the same day, after the review's minor points, has not been run either; the trial record lists it too. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -1,15 +1,15 @@
 {
-  "repository": "Fully-Powered-AI/marketing-capability-templates",
+  "repository": "Fully-Powered-AI/marketing-workflow-templates",
   "title": "Marketing",
   "term": "functions/marketing-and-content",
-  "capabilities": [
+  "templates": [
     {
       "id": "affiliate-onboarding",
       "name": "Affiliate onboarding",
       "version": "0.1.0",
       "summary": "A programme owner brings a new affiliate or creator in: the code and link the store gave are checked against the programme rules and a test at checkout, then a welcome pack and a dated first-weeks checklist are prepared. A person sends, creates and pays.",
       "path": "affiliate-onboarding/",
-      "directory": "https://fullypowered.ai/capabilities/affiliate-onboarding/"
+      "directory": "https://fullypowered.ai/workflow templates/affiliate-onboarding/"
     },
     {
       "id": "brand-strategy-workshop",
@@ -17,7 +17,7 @@
       "version": "0.1.0",
       "summary": "Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.",
       "path": "brand-strategy-workshop/",
-      "directory": "https://fullypowered.ai/capabilities/brand-strategy-workshop/"
+      "directory": "https://fullypowered.ai/workflow templates/brand-strategy-workshop/"
     },
     {
       "id": "competitor-profile-from-public-pages",
@@ -25,7 +25,7 @@
       "version": "0.1.0",
       "summary": "Your marketing lead gets a dated profile of a named competitor, built only from its public pages: what they say, sell and charge, kept apart from what that suggests and the questions it raises for you. Any figure no page states is marked unavailable, never estimated.",
       "path": "competitor-profile-from-public-pages/",
-      "directory": "https://fullypowered.ai/capabilities/competitor-profile-from-public-pages/"
+      "directory": "https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/"
     },
     {
       "id": "content-plan",
@@ -33,7 +33,7 @@
       "version": "0.1.0",
       "summary": "A marketing lead with a few hours a week gets a content plan built on the questions buyers really ask: one subject for each question worth answering, the formats those hours can carry, a ranked list of what to write next, and what is held or left out, each with its reason.",
       "path": "content-plan/",
-      "directory": "https://fullypowered.ai/capabilities/content-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/content-plan/"
     },
     {
       "id": "copy-edit-with-a-change-list",
@@ -41,7 +41,7 @@
       "version": "0.1.0",
       "summary": "Hand over a page, an email or a brochure and get it back plainer and tighter, with no claim stronger than the statements you can support and a change list that shows every edit, its reason and any meaning it moved. You approve each change before the copy is used.",
       "path": "copy-edit-with-a-change-list/",
-      "directory": "https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/"
+      "directory": "https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/"
     },
     {
       "id": "creator-brief",
@@ -49,7 +49,7 @@
       "version": "0.1.0",
       "summary": "A brand marketer gets one brief per creator for a campaign: the product statements the brand has cleared, word for word, the disclosure that creator's platform needs, their own code and link, the dates and the review round. Nothing reaches a creator until a person reads it and sends it.",
       "path": "creator-brief/",
-      "directory": "https://fullypowered.ai/capabilities/creator-brief/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-brief/"
     },
     {
       "id": "creator-campaign-performance-report",
@@ -57,7 +57,7 @@
       "version": "0.1.0",
       "summary": "When a creator campaign closes, the marketing lead gets one report built from the store's own orders: what each creator brought in and cost, every creator ranked under a metric set beforehand, and a proposed next step for each. Every number is labelled measured, supplied or estimated.",
       "path": "creator-campaign-performance-report/",
-      "directory": "https://fullypowered.ai/capabilities/creator-campaign-performance-report/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-campaign-performance-report/"
     },
     {
       "id": "creator-campaign-plan",
@@ -65,7 +65,7 @@
       "version": "0.1.0",
       "summary": "Before a creator campaign starts, the marketing lead gets one plan: the goal, each creator's deal and deliverables, a base and a conservative budget checked against the budget supplied, the dates, the set-up before launch and the decisions. A person approves the spend.",
       "path": "creator-campaign-plan/",
-      "directory": "https://fullypowered.ai/capabilities/creator-campaign-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-campaign-plan/"
     },
     {
       "id": "creator-content-approval",
@@ -73,7 +73,7 @@
       "version": "0.1.0",
       "summary": "A brand marketer gets a written go or no-go on a creator's draft before it goes live: every product statement checked against the brand's cleared list, the disclosure against the brand's own rules, and feedback the creator can act on without losing their voice. A person sends it.",
       "path": "creator-content-approval/",
-      "directory": "https://fullypowered.ai/capabilities/creator-content-approval/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-content-approval/"
     },
     {
       "id": "creator-content-reuse-plan",
@@ -81,7 +81,7 @@
       "version": "0.1.0",
       "summary": "A brand marketer sees which published creator posts may be reused on which of the brand's channels, read only from the usage rights they supply, with every placement ending before the rights do. Where the rights are silent or unclear, the question goes to whoever reviews contracts.",
       "path": "creator-content-reuse-plan/",
-      "directory": "https://fullypowered.ai/capabilities/creator-content-reuse-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-content-reuse-plan/"
     },
     {
       "id": "creator-discovery-longlist",
@@ -89,7 +89,7 @@
       "version": "0.1.0",
       "summary": "Before anyone scores or contacts a creator, the brand marketer gets a dated longlist from public pages and the names the team supplied: where each creator posts, how they were found, where their follower count came from, whether they already talk about your category, and why they are on the list.",
       "path": "creator-discovery-longlist/",
-      "directory": "https://fullypowered.ai/capabilities/creator-discovery-longlist/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-discovery-longlist/"
     },
     {
       "id": "creator-outreach-drafting",
@@ -97,7 +97,7 @@
       "version": "0.1.0",
       "summary": "A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.",
       "path": "creator-outreach-drafting/",
-      "directory": "https://fullypowered.ai/capabilities/creator-outreach-drafting/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-outreach-drafting/"
     },
     {
       "id": "creator-programme-setup",
@@ -105,7 +105,7 @@
       "version": "0.1.0",
       "summary": "A brand owner or marketing lead writes the rules for working with creators once, in one file: products and cleared statements, platforms, how creators are paid with the arithmetic behind it, codes, payouts, disclosure, brand safety and roles. Every line is the owner's ruling, marked with its source.",
       "path": "creator-programme-setup/",
-      "directory": "https://fullypowered.ai/capabilities/creator-programme-setup/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-programme-setup/"
     },
     {
       "id": "creator-publication-tracking",
@@ -113,7 +113,7 @@
       "version": "0.1.0",
       "summary": "A brand marketer sees, creator by creator, what was agreed against what actually went live: each post checked for its disclosure, code, link and approved version, dated checks that it is still up, and every gap set out as a fix to ask for or a decision to make. A person sends every message.",
       "path": "creator-publication-tracking/",
-      "directory": "https://fullypowered.ai/capabilities/creator-publication-tracking/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-publication-tracking/"
     },
     {
       "id": "creator-roster",
@@ -121,7 +121,7 @@
       "version": "0.1.0",
       "summary": "The programme owner keeps one record of every creator the brand works with: where each relationship stands, what each creator still owes the brand, what the brand still owes each creator, and when rights and exclusivity end. It is built from the files the owner supplies; nothing is sent or paid.",
       "path": "creator-roster/",
-      "directory": "https://fullypowered.ai/capabilities/creator-roster/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-roster/"
     },
     {
       "id": "creator-vetting-shortlist",
@@ -129,7 +129,7 @@
       "version": "0.1.0",
       "summary": "Before anyone contacts a creator, the program lead sees every name on the longlist scored on six lines, each backed by what was seen and when: audience fit, engagement quality, authenticity, brand safety, sponsored track record and contactability. A person chooses who to approach.",
       "path": "creator-vetting-shortlist/",
-      "directory": "https://fullypowered.ai/capabilities/creator-vetting-shortlist/"
+      "directory": "https://fullypowered.ai/workflow templates/creator-vetting-shortlist/"
     },
     {
       "id": "customer-case-study",
@@ -137,7 +137,7 @@
       "version": "0.1.0",
       "summary": "With a customer who has agreed to help, prepare the interview, then turn their words and the figures they supply into a case study in a short and a long version. Every quotation and number is listed for the customer to approve in writing, and nothing is published or named before they do.",
       "path": "customer-case-study/",
-      "directory": "https://fullypowered.ai/capabilities/customer-case-study/"
+      "directory": "https://fullypowered.ai/workflow templates/customer-case-study/"
     },
     {
       "id": "customer-interview-synthesis",
@@ -145,7 +145,7 @@
       "version": "0.1.0",
       "summary": "Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.",
       "path": "customer-interview-synthesis/",
-      "directory": "https://fullypowered.ai/capabilities/customer-interview-synthesis/"
+      "directory": "https://fullypowered.ai/workflow templates/customer-interview-synthesis/"
     },
     {
       "id": "email-sequence-drafting",
@@ -153,7 +153,7 @@
       "version": "0.1.0",
       "summary": "People who asked to hear from you get emails worth opening: a welcome, a nurture sequence or a new customer's onboarding, drafted in your voice, each email with one job and one ask, every claim traced to your own facts, and a clear end. You read, load and send them yourself.",
       "path": "email-sequence-drafting/",
-      "directory": "https://fullypowered.ai/capabilities/email-sequence-drafting/"
+      "directory": "https://fullypowered.ai/workflow templates/email-sequence-drafting/"
     },
     {
       "id": "event-plan",
@@ -161,7 +161,7 @@
       "version": "0.1.0",
       "summary": "Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.",
       "path": "event-plan/",
-      "directory": "https://fullypowered.ai/capabilities/event-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/event-plan/"
     },
     {
       "id": "launch-checklist",
@@ -169,7 +169,7 @@
       "version": "0.1.0",
       "summary": "Whoever owns a launch date gets one dated checklist for the weeks before, the day itself and the weeks after, with an owner on every line. Each announcement is written out so the approver sees exactly what goes out, to whom and from where before saying go. Nothing is announced by the assistant.",
       "path": "launch-checklist/",
-      "directory": "https://fullypowered.ai/capabilities/launch-checklist/"
+      "directory": "https://fullypowered.ai/workflow templates/launch-checklist/"
     },
     {
       "id": "lead-magnet-plan",
@@ -177,7 +177,7 @@
       "version": "0.1.0",
       "summary": "A marketer or owner gets the plan for one free resource built on a question buyers really ask: who it is for, what it promises and delivers, a format the team can make in the hours it has, the outline section by section, and whether it needs a form at all.",
       "path": "lead-magnet-plan/",
-      "directory": "https://fullypowered.ai/capabilities/lead-magnet-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/lead-magnet-plan/"
     },
     {
       "id": "ninety-day-marketing-plan",
@@ -185,7 +185,7 @@
       "version": "0.1.0",
       "summary": "An owner or first marketing hire gets the next ninety days of marketing on one plan: the stage the business is really in, the moves that fit it, who owns each one, the money and hours they use, and what is deliberately left undone. Every count comes from your own records, and no budget is invented.",
       "path": "ninety-day-marketing-plan/",
-      "directory": "https://fullypowered.ai/capabilities/ninety-day-marketing-plan/"
+      "directory": "https://fullypowered.ai/workflow templates/ninety-day-marketing-plan/"
     },
     {
       "id": "offer-review",
@@ -193,7 +193,7 @@
       "version": "0.1.0",
       "summary": "Before you sell a packaged service, see it the way a buyer will: what they get and what is left out, what answers each doubt they raise, what protects them, and whether there is an honest reason to decide now. The weakest point is named and one change drafted, from your facts only.",
       "path": "offer-review/",
-      "directory": "https://fullypowered.ai/capabilities/offer-review/"
+      "directory": "https://fullypowered.ai/workflow templates/offer-review/"
     },
     {
       "id": "press-pitch-preparation",
@@ -201,7 +201,7 @@
       "version": "0.1.0",
       "summary": "An owner or marketer with one story to offer gets the outlets and writers it genuinely fits, each backed by a piece they recently published, and a short pitch draft for each. Every claim in a draft comes from facts you supply. Drafts only: a person decides and sends.",
       "path": "press-pitch-preparation/",
-      "directory": "https://fullypowered.ai/capabilities/press-pitch-preparation/"
+      "directory": "https://fullypowered.ai/workflow templates/press-pitch-preparation/"
     },
     {
       "id": "recorded-sessions-into-articles",
@@ -209,7 +209,7 @@
       "version": "0.1.0",
       "summary": "A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.",
       "path": "recorded-sessions-into-articles/",
-      "directory": "https://fullypowered.ai/capabilities/recorded-sessions-into-articles/"
+      "directory": "https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/"
     },
     {
       "id": "referral-programme-design",
@@ -217,7 +217,7 @@
       "version": "0.1.0",
       "summary": "Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.",
       "path": "referral-programme-design/",
-      "directory": "https://fullypowered.ai/capabilities/referral-programme-design/"
+      "directory": "https://fullypowered.ai/workflow templates/referral-programme-design/"
     },
     {
       "id": "website-findability-audit",
@@ -225,7 +225,7 @@
       "version": "0.1.0",
       "summary": "An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.",
       "path": "website-findability-audit/",
-      "directory": "https://fullypowered.ai/capabilities/website-findability-audit/"
+      "directory": "https://fullypowered.ai/workflow templates/website-findability-audit/"
     }
   ]
 }

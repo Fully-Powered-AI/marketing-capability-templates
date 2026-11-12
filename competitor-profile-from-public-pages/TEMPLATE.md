@@ -1,6 +1,6 @@
 # Competitor profile from public pages
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -262,4 +262,4 @@ page or what person would be needed instead.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of a competitor profiling method; sources are listed in the capability's credits. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of a competitor profiling method; sources are listed in the workflow template's credits. Not yet tested in a client environment.

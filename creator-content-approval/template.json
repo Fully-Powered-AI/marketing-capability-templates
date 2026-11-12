@@ -1,10 +1,10 @@
 {
   "id": "creator-content-approval",
   "name": "Creator content approval",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A brand marketer gets a written go or no-go on a creator's draft before it goes live: every product statement checked against the brand's cleared list, the disclosure against the brand's own rules, and feedback the creator can act on without losing their voice. A person sends it.",
-  "directory": "https://fullypowered.ai/capabilities/creator-content-approval/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-content-approval/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -38,7 +38,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "The content approval capability in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its twelve checks, statement classes, verdict order, conditions at posting and numbered attempts."
+      "title": "The content approval workflow template in Fully Powered AI's Influencer Marketing set (Fully-Powered-AI/influencer-marketing, MIT), with its twelve checks, statement classes, verdict order, conditions at posting and numbered attempts."
     },
     {
       "kind": "third-party",

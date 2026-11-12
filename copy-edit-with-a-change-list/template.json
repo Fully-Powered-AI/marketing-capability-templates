@@ -1,10 +1,10 @@
 {
   "id": "copy-edit-with-a-change-list",
   "name": "Copy edit with a change list",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Hand over a page, an email or a brochure and get it back plainer and tighter, with no claim stronger than the statements you can support and a change list that shows every edit, its reason and any meaning it moved. You approve each change before the copy is used.",
-  "directory": "https://fullypowered.ai/capabilities/copy-edit-with-a-change-list/",
+  "directory": "https://fullypowered.ai/workflow templates/copy-edit-with-a-change-list/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

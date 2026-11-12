@@ -1,10 +1,10 @@
 {
   "id": "recorded-sessions-into-articles",
   "name": "Recorded sessions into articles",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A coach, trainer or consultant hands over transcripts of recent sessions and gets back article drafts in their own words: the subjects they actually taught, their key lines quoted word for word, no participant named, and a review sheet of what to check before publishing.",
-  "directory": "https://fullypowered.ai/capabilities/recorded-sessions-into-articles/",
+  "directory": "https://fullypowered.ai/workflow templates/recorded-sessions-into-articles/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

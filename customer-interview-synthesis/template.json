@@ -1,10 +1,10 @@
 {
   "id": "customer-interview-synthesis",
   "name": "Customer interview synthesis",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Turn a stack of customer call notes into the answer to one question, in your customers’ own words. Every quotation is cited to the note it came from, every theme shows its confidence and the evidence against it, and nothing is claimed that the notes do not say.",
-  "directory": "https://fullypowered.ai/capabilities/customer-interview-synthesis/",
+  "directory": "https://fullypowered.ai/workflow templates/customer-interview-synthesis/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

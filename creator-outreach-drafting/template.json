@@ -1,10 +1,10 @@
 {
   "id": "creator-outreach-drafting",
   "name": "Creator outreach drafting",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A brand marketer gets a first message and three follow-ups for each chosen creator, written for the way that creator can be reached, opening on something they made and stating only the brand's standard offer. A person reads every message and sends it from the brand's own account.",
-  "directory": "https://fullypowered.ai/capabilities/creator-outreach-drafting/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-outreach-drafting/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

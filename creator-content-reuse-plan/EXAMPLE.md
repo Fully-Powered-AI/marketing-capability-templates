@@ -1,6 +1,6 @@
 # Creator content reuse plan: an invented example
 
-*Illustrative example with invented data.* Fernhollow Candle Works, its candles, its people, the five creators, their handles, the codes and the web addresses below are all invented. First come the inputs Fernhollow's brand marketer supplied, in full, then the plan the capability returned.
+*Illustrative example with invented data.* Fernhollow Candle Works, its candles, its people, the five creators, their handles, the codes and the web addresses below are all invented. First come the inputs Fernhollow's brand marketer supplied, in full, then the plan the workflow template returned.
 
 The example shows what a reader should look for. A post whose rights ended last week is refused first, and the product page that still shows it goes on the take-down list. A post with fifteen days left gets placements that stop on its last day and is flagged as worth asking about. An email that needs a still is not planned when the record lists only trims and crops. Wording that names no channel, and a blank paid-use cell, become questions for the contract reviewer, and a note claiming the creator agreed on a call is quoted, not followed. A post with no disclosure is held.
 

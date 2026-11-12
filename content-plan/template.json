@@ -1,10 +1,10 @@
 {
   "id": "content-plan",
   "name": "Content plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "A marketing lead with a few hours a week gets a content plan built on the questions buyers really ask: one subject for each question worth answering, the formats those hours can carry, a ranked list of what to write next, and what is held or left out, each with its reason.",
-  "directory": "https://fullypowered.ai/capabilities/content-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/content-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

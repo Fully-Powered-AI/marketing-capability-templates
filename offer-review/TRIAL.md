@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0, as revised after review on 9 November 2026
 
-The inputs are the capability template's invented example, so no client data was used. Quillmere Bookkeeping is an invented firm. The inputs were the request, the offer as written, the owner's facts note and the five objections in [the example](example.md), under "The inputs". The run followed the instruction block and the output format in the member template. This is a record of one run. It is not a test in any company's environment.
+The inputs are the workflow template's invented example, so no client data was used. Quillmere Bookkeeping is an invented firm. The inputs were the request, the offer as written, the owner's facts note and the five objections in [the example](example.md), under "The inputs". The run followed the instruction block and the output format in the member template. This is a record of one run. It is not a test in any company's environment.
 
 This record replaces an earlier one made the same day. The first run, on the template as first drafted (Claude Sonnet 5.5), produced all six sections and found places where the instructions left room for guessing: which lever an objection bears on, whether protection is weak or missing when both conditions hold, what counts as an extra, and how dates are written; it also noted that the facts note did not repeat the price. The template was revised to settle those four points, the facts note gained the price line, and the template was run again. The output below is from the second run.
 

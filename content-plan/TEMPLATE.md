@@ -1,6 +1,6 @@
 # Content plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it when a marketing lead or an owner who does their own marketing has a few 
 
 Do not use it:
 
-- to write the pieces. The plan names what to write and in which order; a person, or another capability, drafts each one;
+- to write the pieces. The plan names what to write and in which order; a person, or another workflow template, drafts each one;
 - to schedule, post or publish anything, or to set up a newsletter;
 - to forecast traffic, search volume or leads. The plan sets no figure that nobody supplied;
 - for paid advertising plans or a launch day. Those are different pieces of work;

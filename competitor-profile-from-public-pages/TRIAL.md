@@ -5,7 +5,7 @@
 - Date: 2026-11-09
 - Template version: 0.1.0, as revised after review on 9 November 2026
 
-The inputs were the invented example published with this capability template. Tessel & Wren Payroll and Corvane Paydesk are invented companies, the three pages were written for the example, and no client data was used. This is a record of one run. It is not a test in any company's environment.
+The inputs were the invented example published with this workflow template. Tessel & Wren Payroll and Corvane Paydesk are invented companies, the three pages were written for the example, and no client data was used. This is a record of one run. It is not a test in any company's environment.
 
 Note, 9 November 2026: the template was edited after the run recorded here, and it was not run again. The instruction block now gives a default of three recent posts when no number is stated; says the "In short" line names no page; says that a fee the facts note states and no page gives counts as a figure; says a "from memory" line is counted in the coverage line; and carries two stop conditions the template already listed outside the block, a redirect to another company's domain and a competitor who is a person. The output format did not change. The points listed under "Where the instructions still left room for guessing" describe the block as it was run; of those, only the setup fee point is addressed by this edit.
 

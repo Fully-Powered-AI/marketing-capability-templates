@@ -1,6 +1,6 @@
 # Creator brief
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -13,7 +13,7 @@ Use it once a creator has said yes to a campaign and the brand has written down 
 Do not use it:
 
 - for the first message to a creator who has not agreed to work with the brand;
-- to decide what may be said about a product. A person at the brand clears every statement; this capability only copies cleared ones;
+- to decide what may be said about a product. A person at the brand clears every statement; this workflow template only copies cleared ones;
 - to write the post, a caption, a voice-over, a hook or a shot list for the creator. The creator makes the post;
 - to set, negotiate or restate pay, usage rights or exclusivity. Those stay in the signed agreement, which the brief names by date only;
 - to judge a draft the creator has sent back. That is a separate review against this brief;
@@ -25,7 +25,7 @@ Do not use it:
 - **Clears product statements:** the person the brand names, such as the founder or the head of marketing. Only statements marked as cleared by that role count.
 - **Sets the disclosure wording and decides whether it fits each country where the post will be seen:** the person the brand names. Always a person.
 - **Reads each brief, removes the status line and the notes, and sends it from the brand's own account:** the creator programme lead, or [your sender role].
-- **Makes platform rulings, issues creator codes and links, keeps signed agreements:** the roles the brand names in its rules. The capability names no one the rules do not.
+- **Makes platform rulings, issues creator codes and links, keeps signed agreements:** the roles the brand names in its rules. The workflow template names no one the rules do not.
 - **Decides on a creator the roster marks for review:** the owner or the person the brand names.
 - **Makes the post:** the creator.
 

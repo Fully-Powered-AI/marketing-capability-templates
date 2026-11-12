@@ -1,10 +1,10 @@
 {
   "id": "creator-vetting-shortlist",
   "name": "Creator vetting shortlist",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone contacts a creator, the program lead sees every name on the longlist scored on six lines, each backed by what was seen and when: audience fit, engagement quality, authenticity, brand safety, sponsored track record and contactability. A person chooses who to approach.",
-  "directory": "https://fullypowered.ai/capabilities/creator-vetting-shortlist/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-vetting-shortlist/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content"

@@ -1,10 +1,10 @@
 {
   "id": "website-findability-audit",
   "name": "Website findability audit",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An owner or marketer asking why the website is not found gets a plain report from saved copies of their own pages: what stops each page being reached, read or understood, the fixes in order, and the checks only a live look can settle. No ranking is promised.",
-  "directory": "https://fullypowered.ai/capabilities/website-findability-audit/",
+  "directory": "https://fullypowered.ai/workflow templates/website-findability-audit/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

@@ -1,10 +1,10 @@
 {
   "id": "event-plan",
   "name": "Event plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Whoever owns one event, a talk, a dinner, a webinar or a stand, gets one plan: the goal and target, who should be in the room, every step before, on and after the day with a date and an owner, and how each conversation is followed up. Nothing is booked, paid or sent by the assistant.",
-  "directory": "https://fullypowered.ai/capabilities/event-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/event-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -49,7 +49,7 @@
       "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
       "path": "skills/events/SKILL.md",
       "licence": "MIT",
-      "contribution": "The event method this capability rewrites: one main outcome judged by real conversations, not headcounts or scans; four combinable roles; the before, during and after shape; short meetings requested ahead of the day; a note after each conversation; quick follow-up sorted by how far each conversation got; and a small hosted dinner with no pitch.",
+      "contribution": "The event method this workflow template rewrites: one main outcome judged by real conversations, not headcounts or scans; four combinable roles; the before, during and after shape; short meetings requested ahead of the day; a note after each conversation; quick follow-up sorted by how far each conversation got; and a small hosted dinner with no pitch.",
       "text_reused": false,
       "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
     },

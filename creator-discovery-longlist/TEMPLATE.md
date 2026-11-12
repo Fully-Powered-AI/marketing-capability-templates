@@ -1,6 +1,6 @@
 # Creator discovery longlist
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -88,7 +88,7 @@ The assistant works from public pages and the files and notes it is given. It ne
 - **Asked to find a private address or phone number, or to say who is behind an account:** decline. Public routes only.
 - **Asked to score, rank, shortlist or say whom to pick:** decline and point to vetting, which takes this list.
 - **Asked for an opinion of a competitor or its products:** decline. Record the dated mention only.
-- **Asked to assess a person for employment:** stop. This capability covers public creator accounts for marketing partnerships only.
+- **Asked to assess a person for employment:** stop. This workflow template covers public creator accounts for marketing partnerships only.
 
 ## Output format
 
@@ -336,4 +336,4 @@ who decides or what is needed.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from the creator discovery method in its own influencer-marketing capability templates, published under the MIT licence, and rewritten for any brand; sources are listed in the capability's credits. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: after the first, the category signal was defined (a match resting only on a word the assistant added is `unknown` until the marketer confirms the word, and one item in the window is enough for `yes`), the example's 30 August video was rewritten to show the camp stove it uses, and the instructions gained a rule for counts pasted without their source, a spelling line for dates, platforms and tags, the plan printed in the header when notes arrive already pasted, and "screened by the brand rules or the roster"; the second is the run recorded, followed by small spelling edits to the output format and the example (dates, platform names, the reel's quoted title) that were not run again. After the independent review, further small edits were made and not run again: "adult markers" in the profile-reading list became "signs the account is for adults only"; a rule settles which route is `found via` when one note reports a creator from two routes at once (the first in the route list, as the example already did); the instructions gained the line on what to read on each profile; a fifteenth proposed test covers a match resting on an added word; some lines were rewrapped; and the example's Alpine Pantry reason sentence now names the export that found it. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI from the creator discovery method in its own Influencer Marketing set, published under the MIT licence, and rewritten for any brand; sources are listed in the template's credits. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: after the first, the category signal was defined (a match resting only on a word the assistant added is `unknown` until the marketer confirms the word, and one item in the window is enough for `yes`), the example's 30 August video was rewritten to show the camp stove it uses, and the instructions gained a rule for counts pasted without their source, a spelling line for dates, platforms and tags, the plan printed in the header when notes arrive already pasted, and "screened by the brand rules or the roster"; the second is the run recorded, followed by small spelling edits to the output format and the example (dates, platform names, the reel's quoted title) that were not run again. After the independent review, further small edits were made and not run again: "adult markers" in the profile-reading list became "signs the account is for adults only"; a rule settles which route is `found via` when one note reports a creator from two routes at once (the first in the route list, as the example already did); the instructions gained the line on what to read on each profile; a fifteenth proposed test covers a match resting on an added word; some lines were rewrapped; and the example's Alpine Pantry reason sentence now names the export that found it. Not yet tested in a client environment.

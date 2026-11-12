@@ -1,6 +1,6 @@
 # Creator publication tracking: an invented example
 
-*Illustrative example with invented data.* Fernhollow Candle Co., its campaign, its creators, their codes and every web address below are invented. First come the inputs the creator programme lead supplied, in full, then the report the capability returned.
+*Illustrative example with invented data.* Fernhollow Candle Co., its campaign, its creators, their codes and every web address below are invented. First come the inputs the creator programme lead supplied, in full, then the report the workflow template returned.
 
 The example shows what a reader should look for. A reel that is right on every line drops out of the to-do list. A story with a missing partnership label and no link sticker had fixes asked, and they are now overdue; the creator's message saying it is done does not close them. A YouTube video carries the wrong code and a product statement its approved version did not cover, so a fix request and a note for the content reviewer are drafted. Its link counts as a match even with "www" and a trailing slash. A TikTok video came down seven days in, inside the thirty-day minimum, and goes to the programme lead as facts with the creator's term quoted, not as a verdict. A second TikTok video is a day late and still not up. Fernhollow's rules give stories the same check days as every other post, so the story has day 7 and day 30 checks; a brand whose stories lapse after a day would set fewer checks for them in its rules.
 

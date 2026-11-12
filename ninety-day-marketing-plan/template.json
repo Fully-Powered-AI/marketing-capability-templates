@@ -1,10 +1,10 @@
 {
   "id": "ninety-day-marketing-plan",
   "name": "Ninety-day marketing plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "An owner or first marketing hire gets the next ninety days of marketing on one plan: the stage the business is really in, the moves that fit it, who owns each one, the money and hours they use, and what is deliberately left undone. Every count comes from your own records, and no budget is invented.",
-  "directory": "https://fullypowered.ai/capabilities/ninety-day-marketing-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/ninety-day-marketing-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -49,7 +49,7 @@
       "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
       "path": "skills/marketing-plan",
       "licence": "MIT",
-      "contribution": "The method this capability rewrites: a plan organised by the stages a buyer passes through, from first hearing of the business to bringing others; every move naming its mechanism and leading indicator, and an experiment carrying a kill criterion; the check of how large and how frequent the problem is before planning; scoring the current state from 0 to 5 from the materials and reading the shape of the scores; acknowledging work already done and naming what is in flight and stuck; a ninety-day schedule with an owner on every line; what changes when the business reaches its next stage; the tactics considered and skipped, each with its reason; unknown figures such as the cost of a sale listed as open decisions instead of estimated; compounding assets ahead of one-off pushes; a north star, leading indicators and weekly, monthly and quarterly reviews; and the summary written last so that it reads alone. Its competitor-profiling method's handling of untrusted input also informs, beside Fully Powered AI's own rules, the rule that instruction-like text in an input is data and is reported, not followed.",
+      "contribution": "The method this workflow template rewrites: a plan organised by the stages a buyer passes through, from first hearing of the business to bringing others; every move naming its mechanism and leading indicator, and an experiment carrying a kill criterion; the check of how large and how frequent the problem is before planning; scoring the current state from 0 to 5 from the materials and reading the shape of the scores; acknowledging work already done and naming what is in flight and stuck; a ninety-day schedule with an owner on every line; what changes when the business reaches its next stage; the tactics considered and skipped, each with its reason; unknown figures such as the cost of a sale listed as open decisions instead of estimated; compounding assets ahead of one-off pushes; a north star, leading indicators and weekly, monthly and quarterly reviews; and the summary written last so that it reads alone. Its competitor-profiling method's handling of untrusted input also informs, beside Fully Powered AI's own rules, the rule that instruction-like text in an input is data and is reported, not followed.",
       "text_reused": false,
       "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
     },

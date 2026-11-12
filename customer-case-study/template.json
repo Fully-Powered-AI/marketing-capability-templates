@@ -1,10 +1,10 @@
 {
   "id": "customer-case-study",
   "name": "Customer case study",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "With a customer who has agreed to help, prepare the interview, then turn their words and the figures they supply into a case study in a short and a long version. Every quotation and number is listed for the customer to approve in writing, and nothing is published or named before they do.",
-  "directory": "https://fullypowered.ai/capabilities/customer-case-study/",
+  "directory": "https://fullypowered.ai/workflow templates/customer-case-study/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

@@ -1,10 +1,10 @@
 {
   "id": "creator-campaign-plan",
   "name": "Creator campaign plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before a creator campaign starts, the marketing lead gets one plan: the goal, each creator's deal and deliverables, a base and a conservative budget checked against the budget supplied, the dates, the set-up before launch and the decisions. A person approves the spend.",
-  "directory": "https://fullypowered.ai/capabilities/creator-campaign-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/creator-campaign-plan/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "The campaign plan in Fully Powered AI's own influencer-marketing capability templates (MIT, Fully-Powered-AI/influencer-marketing), rewritten here as a self-contained template for any business: the person's own expected orders in a base and a conservative case, fee deals shown with their break-even and held for the spend approver, a timeline tested against the lead time, a set-up checklist, a risk register and decisions written as options with a recommendation."
+      "title": "The campaign plan in Fully Powered AI's own influencer-marketing workflow templates (MIT, Fully-Powered-AI/influencer-marketing), rewritten here as a self-contained template for any business: the person's own expected orders in a base and a conservative case, fee deals shown with their break-even and held for the spend approver, a timeline tested against the lead time, a set-up checklist, a risk register and decisions written as options with a recommendation."
     },
     {
       "kind": "third-party",

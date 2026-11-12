@@ -1,6 +1,6 @@
 # Event plan: an invented example
 
-*Illustrative example with invented data.* Tallowby IT is an invented 15-person IT support firm, and the Calderbrook Chamber of Commerce and its Harbourside Business Breakfast are invented too. The people are named by role only, and every count, date and price below is invented. No real firm, association or person is described. The founder has been accepted to speak at the chamber's December breakfast. First come the inputs the founder supplied, in full, then the plan the capability returned.
+*Illustrative example with invented data.* Tallowby IT is an invented 15-person IT support firm, and the Calderbrook Chamber of Commerce and its Harbourside Business Breakfast are invented too. The people are named by role only, and every count, date and price below is invented. No real firm, association or person is described. The founder has been accepted to speak at the chamber's December breakfast. First come the inputs the founder supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

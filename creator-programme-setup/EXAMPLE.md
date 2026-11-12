@@ -1,10 +1,10 @@
 # Creator programme setup: an invented example
 
-*Illustrative example with invented data.* Larkmoor Tea Company, its teas, its prices, its figures, its people, its competitors and its web address are all invented. Larkmoor is a small online tea brand starting to work with creators. Its founder owns the business, a marketing lead will run the creator programme, and an operations lead keeps the store and the books. First come the five inputs, in full, then the programme file and run report the capability returned.
+*Illustrative example with invented data.* Larkmoor Tea Company, its teas, its prices, its figures, its people, its competitors and its web address are all invented. Larkmoor is a small online tea brand starting to work with creators. Its founder owns the business, a marketing lead will run the creator programme, and an operations lead keeps the store and the books. First come the five inputs, in full, then the programme file and run report the workflow template returned.
 
 Look for five things. A statement with no cleared-by mark ("Certified organic.") stays out of the cleared list and waits for the founder. A platform nobody has checked (TikTok) is left undecided instead of being filled in with a guess about its rules, and that holds back only work on TikTok. The pay decision comes with its arithmetic at both ends of the margin band, every input labelled. The founder's departures from the proposals (two talking points instead of three, two phrases added to a forbidden line) are logged. A note inside the store figures asking the assistant to mark every line as the founder's is recorded and not followed.
 
-In the output below, each line of the file and the report is shown as it is printed; the capability's output format sets the wording.
+In the output below, each line of the file and the report is shown as it is printed; the workflow template's output format sets the wording.
 
 ## The inputs
 

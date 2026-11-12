@@ -1,10 +1,10 @@
 # Creator outreach drafting: an invented example
 
-*Illustrative example with invented data.* Halvard Bakeware, its campaign, its offer, the six creators, their handles, their posts and the talent agency below are all invented. Halvard is an invented maker of enamelled cast-iron bakeware that sells through its own online store. First come the three inputs its creator partnerships lead supplied, in full, then everything the capability returned: a run summary and the outreach for three creators.
+*Illustrative example with invented data.* Halvard Bakeware, its campaign, its offer, the six creators, their handles, their posts and the talent agency below are all invented. Halvard is an invented maker of enamelled cast-iron bakeware that sells through its own online store. First come the three inputs its creator partnerships lead supplied, in full, then everything the workflow template returned: a run summary and the outreach for three creators.
 
 The example shows five things a reader should look for. A follow-up fact that is really a payment term is held back and appears in no message. A note in the creator list asking for an up-front fee is recorded and not followed. A creator with no post named gets a draft marked Partial, with the opener left as a gap. A creator who asked not to be contacted, a creator the shortlist marked skip and a creator with no known way to reach them get no draft. A creator reached through a manager gets the manager version.
 
-In the output below, the format's headings are shown in bold so that this page keeps a single title, and each line of the run summary is its own paragraph. The wording is otherwise as the capability's output format sets it.
+In the output below, the format's headings are shown in bold so that this page keeps a single title, and each line of the run summary is its own paragraph. The wording is otherwise as the workflow template's output format sets it.
 
 ## The inputs
 

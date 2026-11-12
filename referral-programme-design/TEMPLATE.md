@@ -1,6 +1,6 @@
 # Referral programme design
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,7 +15,7 @@ Do not use it:
 - for an affiliate or commission scheme with tracked links and payouts. That needs written terms and someone who owns them;
 - to write terms and conditions, a partner arrangement or the rules for a reward, or to judge what your profession allows on referral rewards. Read those rules yourself or take them to whoever advises you;
 - to ask a client whether they may be named, quoted or called by a prospect. That permission is a separate piece of work;
-- for review-site campaigns, or for writing to people who do not know you. The second is cold outreach and has its own capability;
+- for review-site campaigns, or for writing to people who do not know you. The second is cold outreach and has its own workflow template;
 - when there is no list of relationships. A memory of who might help is a starting point for the list, not a substitute for it.
 
 ## Roles

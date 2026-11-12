@@ -1,10 +1,10 @@
 {
   "id": "brand-strategy-workshop",
   "name": "Brand strategy workshop",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Give your company one answer to why it exists, who it is for and how it sounds. Over about three hours (a planning figure, not yet timed), the owner makes the six choices that define the brand from options an AI assistant drafts, signs off the rest, and leaves with the tests that check it with real buyers.",
-  "directory": "https://fullypowered.ai/capabilities/brand-strategy-workshop/",
+  "directory": "https://fullypowered.ai/workflow templates/brand-strategy-workshop/",
   "primary_function": "functions/marketing-and-content",
   "functions": [
     "functions/marketing-and-content",

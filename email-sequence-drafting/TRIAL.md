@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-This is one run of the capability template on its invented example. The inputs are the invented ones in [the example](example.md); no client data was used. The model that ran it did not write the template, and it read only the example's inputs before producing its output. It read the example's output afterwards, to compare. Nothing was sent, scheduled or loaded anywhere.
+This is one run of the workflow template on its invented example. The inputs are the invented ones in [the example](example.md); no client data was used. The model that ran it did not write the template, and it read only the example's inputs before producing its output. It read the example's output afterwards, to compare. Nothing was sent, scheduled or loaded anywhere.
 
 ## Inputs used
 

@@ -1,10 +1,10 @@
 # Creator programme setup
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
-Prepare, with the brand's owner, the creator programme file: the one document that supplies the rules the creator vetting shortlist, creator brief and creator commission statement capabilities take as inputs, written in the shapes they accept. (A platform this file records as `undecided` is the one the vetting shortlist calls `unknown`.) The file holds the owner's rulings in twelve fixed sections: brand and products, audience and markets, platforms, how creators are paid, codes and attribution, the payout path, product statements, disclosure, brand safety, roles, the figures for the creator agreement, and a dated log. Every line ends with a mark saying where it came from. The assistant proposes; the owner rules. A run report comes with the file: what was decided, what is still open and who settles it, the per-order arithmetic behind the pay decision, and which creator capabilities can now run. The assistant prepares; it never sends, posts, pays, creates a discount code, changes a store or platform setting, clears a product statement, says what a platform or a country's rules allow, or writes the creator agreement.
+Prepare, with the brand's owner, the creator programme file: the one document that supplies the rules the creator vetting shortlist, creator brief and creator commission statement workflow templates take as inputs, written in the shapes they accept. (A platform this file records as `undecided` is the one the vetting shortlist calls `unknown`.) The file holds the owner's rulings in twelve fixed sections: brand and products, audience and markets, platforms, how creators are paid, codes and attribution, the payout path, product statements, disclosure, brand safety, roles, the figures for the creator agreement, and a dated log. Every line ends with a mark saying where it came from. The assistant proposes; the owner rules. A run report comes with the file: what was decided, what is still open and who settles it, the per-order arithmetic behind the pay decision, and which creator workflow templates can now run. The assistant prepares; it never sends, posts, pays, creates a discount code, changes a store or platform setting, clears a product statement, says what a platform or a country's rules allow, or writes the creator agreement.
 
 ## When to use it and when not to
 
@@ -12,8 +12,8 @@ Use it when a brand starts working with creators, before the first offer, code, 
 
 Do not use it:
 
-- to find, score or contact creators. Those are separate capabilities that read this file;
-- to decide what may be said about a product. The person the brand names clears every statement, from the product's own label or documentation; this capability records what that person cleared;
+- to find, score or contact creators. Those are separate workflow templates that read this file;
+- to decide what may be said about a product. The person the brand names clears every statement, from the product's own label or documentation; this workflow template records what that person cleared;
 - to say what a platform's current policy allows for the product, or whether a disclosure wording meets a country's rules. A person at the brand checks the platform's own pages and decides, taking advice where needed; the file records who checked and when;
 - to set market rates. The file carries the owner's own figures and none from elsewhere;
 - to write, review or negotiate the creator agreement. The file records the owner's figures for it; the brand's adviser reviews the agreement itself;
@@ -81,7 +81,7 @@ The assistant works from the files and answers the person supplies. It needs no 
 13. **Section 10, roles.** Record by role, never by a person's name, who decides the programme and approves exceptions, who runs it and is the contact for creators, who clears statements, who reviews creator content before it goes live, who issues codes and links, who keeps signed agreements, who rules on platforms, who prepares the commission statement, who pays, and which brand account sends outreach on each channel. Where one person holds several roles, say so by role. If the owner gives a name, write the role instead.
 14. **Section 11, agreement figures.** Record the owner's figures: the window for reusing creator content and whether paid reuse is included (paid reuse only on platforms whose boosting ruling in section 3 allows it); exclusivity by default (ask; there is no proposal); the reply time on submitted drafts in working days; the minimum days a post stays live; the days to take a post down after notice; the dispute window on a commission statement; and the adviser's review record, `reviewed [date], version [n]`, or `[open]`. Propose the rule that no agreement goes to a creator before the brand's adviser has reviewed the template, and any change to it goes back to the adviser. Record the figures only; give no view on what the agreement should say.
 15. **Section 12, the log, and a read-back.** Each entry names the role who ruled and, when someone else ran the session, the role who ran it. Add a first entry: `[date], [role who ruled][, run by [role]], programme file set up: [default deal], [payout path], [n] items open in sections [list], sections 1 to 11`. On a revision, one entry per change, with the section. Add an entry for any ruling that departs from a proposal or from a recorded platform check; adding to a proposal (an extra phrase, a condition) counts as a departure. Then read back every line ruled today, as written, and correct any the owner says misstates them.
-16. **Check and report.** List every line marked `[open]` as an open item, with its section, what is needed and who settles it, and count them. A statement waiting to be cleared is counted under "Statements waiting to be cleared", not as an open item. Fill the readiness lines: the creator vetting shortlist reads sections 2, 3 and 9; the creator brief reads sections 1, 2, 3, 7, 8, 9, 10 and 11; the creator commission statement reads sections 1, 4, 5 and 6. A capability is "ready" when every line it reads is settled. A platform ruled `undecided` holds back only work on that platform: write "ready except for creators on [platform]". A statement waiting to be cleared holds nothing back; it simply cannot be used. Any other open line in a section it reads: "waits on" the item. When both apply, write "waits on: [items]; also not for creators on [platform]". Return the file and the report to the person who ran it, in the output format. Nothing is sent, posted, created or paid.
+16. **Check and report.** List every line marked `[open]` as an open item, with its section, what is needed and who settles it, and count them. A statement waiting to be cleared is counted under "Statements waiting to be cleared", not as an open item. Fill the readiness lines: the creator vetting shortlist reads sections 2, 3 and 9; the creator brief reads sections 1, 2, 3, 7, 8, 9, 10 and 11; the creator commission statement reads sections 1, 4, 5 and 6. A workflow template is "ready" when every line it reads is settled. A platform ruled `undecided` holds back only work on that platform: write "ready except for creators on [platform]". A statement waiting to be cleared holds nothing back; it simply cannot be used. Any other open line in a section it reads: "waits on" the item. When both apply, write "waits on: [items]; also not for creators on [platform]". Return the file and the report to the person who ran it, in the output format. Nothing is sent, posted, created or paid.
 
 ## Exceptions and stop conditions
 
@@ -254,7 +254,7 @@ Where a line offers alternatives separated by a slash, print only the one that a
 4. No platform policy or country rule is stated as fact; each platform line names who checked and when, or says it was not checked. (Programme lead)
 5. Every platform allowed in section 3 has a disclosure line in section 8. (Programme lead)
 6. Each figure in the deal arithmetic recomputes from the inputs shown, and every input carries its label. (Finance)
-7. The payout minimum, discount and attribution lines are written in the shapes the creator capabilities read. (Programme lead)
+7. The payout minimum, discount and attribution lines are written in the shapes the creator workflow templates read. (Programme lead)
 8. No person's name appears; roles only. (Programme lead)
 9. The read-back happened and the log carries today's entry. (Owner)
 
@@ -282,7 +282,7 @@ Paste this block as custom instructions, followed by the output format above.
 ```
 You prepare a brand's creator programme file with its owner: the file
 that supplies the rules the creator vetting shortlist, creator brief
-and creator commission statement capabilities take as inputs. You
+and creator commission statement workflow templates take as inputs. You
 propose; the owner rules. You never send,
 post, pay, create a discount code, switch on a tool, change a store or
 platform setting, contact a creator, clear a product statement, state

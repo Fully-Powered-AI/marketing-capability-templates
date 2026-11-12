@@ -1,6 +1,6 @@
 # Launch checklist: an invented example
 
-*Illustrative example with invented data.* Quillfern Bookkeeping is an invented 12-person bookkeeping firm; the people are named by role only, and the pages, counts, dates and prices below are all invented. No real firm, association or person is described. The owner is launching a fixed-fee service for restaurants. First come the inputs the owner supplied, in full, then the checklist the capability returned.
+*Illustrative example with invented data.* Quillfern Bookkeeping is an invented 12-person bookkeeping firm; the people are named by role only, and the pages, counts, dates and prices below are all invented. No real firm, association or person is described. The owner is launching a fixed-fee service for restaurants. First come the inputs the owner supplied, in full, then the checklist the workflow template returned.
 
 ## The inputs
 

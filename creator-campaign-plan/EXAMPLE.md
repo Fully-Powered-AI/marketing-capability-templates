@@ -1,6 +1,6 @@
 # Creator campaign plan: an invented example
 
-*Illustrative example with invented data.* The business, the creators, the figures and the dates below are all invented. The business is an invented eight-person hot-sauce maker that sells from its own online store and is planning its first creator campaign. Its creator programme lead ran the plan for the marketing lead; the founder approves spend. First come the inputs the programme lead supplied, in full, then the plan the capability returned.
+*Illustrative example with invented data.* The business, the creators, the figures and the dates below are all invented. The business is an invented eight-person hot-sauce maker that sells from its own online store and is planning its first creator campaign. Its creator programme lead ran the plan for the marketing lead; the founder approves spend. First come the inputs the programme lead supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 
@@ -68,7 +68,7 @@ drafts in and one approval round,7,marketing lead,
 None: this is the business's first creator campaign.
 ```
 
-## The plan the capability returned
+## The plan the workflow template returned
 
 ```
 CREATOR CAMPAIGN PLAN: December gift box push, live 2026-12-01 to 2026-12-14. Status: draft

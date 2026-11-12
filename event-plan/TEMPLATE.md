@@ -1,6 +1,6 @@
 # Event plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -30,7 +30,7 @@ Do not use it:
 
 ## Inputs
 
-1. **The event brief.** What the event is (its name or type) and who runs it (the business or an organiser); the business's role or roles: attending, speaking, hosting a dinner or small gathering, hosting a webinar, running a stand; for a talk, its title and length if known; the event day (E) and time or "not set"; the place, or online; today's date; the event owner; the approver for anything outward and any payment; the working days and any days the business is closed. If what the event is or the role is missing, stop and ask. If E is missing, write every date as an offset only and ask for it. If E is before today, stop: this capability plans, it does not review. If the working days are missing, use Monday to Friday and say so. If the approver is missing, end every outward and payment line with "waits for the approver's go (approver not named)" and ask.
+1. **The event brief.** What the event is (its name or type) and who runs it (the business or an organiser); the business's role or roles: attending, speaking, hosting a dinner or small gathering, hosting a webinar, running a stand; for a talk, its title and length if known; the event day (E) and time or "not set"; the place, or online; today's date; the event owner; the approver for anything outward and any payment; the working days and any days the business is closed. If what the event is or the role is missing, stop and ask. If E is missing, write every date as an offset only and ask for it. If E is before today, stop: this workflow template plans, it does not review. If the working days are missing, use Monday to Friday and say so. If the approver is missing, end every outward and payment line with "waits for the approver's go (approver not named)" and ask.
 2. **The goal.** The one main outcome, such as conversations with a named kind of buyer, follow-up meetings or sign-ups, and the target numbers with who set them and when. If several outcomes are given, plan for the first one listed, mark it "proposed" and ask which leads. If no target is given, write "not set". Never propose a target figure.
 3. **The audience.** Who should be in the room, by role and kind of organisation; what the organiser says about who attends, with its source and date; the opening question, if one is chosen. If the audience is missing, stop and ask. If nothing is known about who attends, write "unavailable".
 4. **Your facts.** A short note in your own words: what the business sells, who buys, the proof it may show and how, the one next step it offers people (such as a call), and any terms the event must match. Every proposed line and every follow-up says nothing about the business that is not in this note. If missing, stop and ask.
@@ -102,7 +102,7 @@ The assistant works from what the person supplies. It needs no access to the reg
 ## Exceptions and stop conditions
 
 - **What the event is, the business's role, the audience or the "your facts" note is missing:** stop and ask. Do not describe the business or its audience from general knowledge.
-- **E is before today:** stop. Say that this capability plans an event; the review after the day works from the record.
+- **E is before today:** stop. Say that this workflow template plans an event; the review after the day works from the record.
 - **The people list's headers do not match the defaults:** stop and ask which column holds which.
 - **E is too close for a default offset:** build the plan anyway, mark every line whose date is before today "date passed", make the first question ask how each will be handled, and do not drop a step.
 - **Two inputs disagree,** such as two ticket prices or two dates: use neither; ask.
@@ -194,7 +194,7 @@ Proposed tests. None has been run.
 2. **Payment deadline on a closed day.** A $35 ticket due on a closed Friday. Expected: a payment line on the working day before, quoting the amount and its source, waiting for the approver's go.
 3. **No breakdown by role.** The organiser says "about 60 members usually attend". Expected: "Who attends" quotes it with source and date; the first note to the organiser asks how many fit the audience by role.
 4. **People list with other headers.** Columns headed "segment, size, channel". Expected: stops and asks which column holds which; no plan.
-5. **E has passed.** The brief gives last Tuesday. Expected: stops and says the capability plans, it does not review.
+5. **E has passed.** The brief gives last Tuesday. Expected: stops and says the workflow template plans, it does not review.
 6. **Two outcomes.** The goal note lists "meetings and newsletter sign-ups". Expected: plans for meetings, marks it "proposed", asks which leads.
 7. **Cost with no figure.** A printed handout "not decided". Expected: listed as unavailable, left out of the known money, and asked about.
 8. **Asked to send the invitations.** "Email the four office managers on Monday." Expected: declines and names the role that sends after the approver's go.
@@ -370,4 +370,4 @@ to be removed.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of an event planning method; sources are listed in the capability's credits. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, and the record of that run is published with the template. A first run that day found gaps; the template and the example were edited, the run was repeated on the edited version, and the record lists the edits. After a second independent review, on 10 November 2026, small clarifications were made to the procedure, the output format and the instruction block; by reading, none changes the example's output, so the run was not repeated, and the record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of an event planning method; sources are listed in the workflow template's credits. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, and the record of that run is published with the template. A first run that day found gaps; the template and the example were edited, the run was repeated on the edited version, and the record lists the edits. After a second independent review, on 10 November 2026, small clarifications were made to the procedure, the output format and the instruction block; by reading, none changes the example's output, so the run was not repeated, and the record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

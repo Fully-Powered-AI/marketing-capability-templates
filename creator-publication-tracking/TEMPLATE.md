@@ -1,6 +1,6 @@
 # Creator publication tracking
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -337,4 +337,4 @@ repeat them; tell the user to remove them.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from the publication tracking capability in its own Influencer Marketing set, with ideas credited to four packages from two published repositories. Editorially reviewed. Tried once on its invented example in Claude on 9 November 2026; the trial record is published with it. After that run, sentences were added to the procedure, the pasted instructions and the output format (where a creator's message that a fix is done goes, what the Result counts are, the "overdue after" date, the missing-rule fallbacks, the allowed values and other rules restated in the pasted instructions, and the removal referral no longer naming who looked), and the example's wording was brought closer to its inputs in a few places; these edits have not been run again, and the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI from the publication tracking workflow template in its own Influencer Marketing set, with ideas credited to four packages from two published repositories. Editorially reviewed. Tried once on its invented example in Claude on 9 November 2026; the trial record is published with it. After that run, sentences were added to the procedure, the pasted instructions and the output format (where a creator's message that a fix is done goes, what the Result counts are, the "overdue after" date, the missing-rule fallbacks, the allowed values and other rules restated in the pasted instructions, and the removal referral no longer naming who looked), and the example's wording was brought closer to its inputs in a few places; these edits have not been run again, and the trial record lists them. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

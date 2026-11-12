@@ -1,6 +1,6 @@
 # Customer case study
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -15,8 +15,8 @@ Do not use it:
 - to ask a customer whether they will take part. That request is the requester's own, made in their own words;
 - to write a testimonial, a review or an endorsement from a short remark, or to write one for a customer to sign. A case study here rests on an interview;
 - to turn notes from several customers into findings. Customer interview synthesis does that;
-- to answer objections in a sales conversation or to set up a referral programme. Those are separate capabilities;
-- when the requester wants to publish before the customer has approved the text in writing. The capability prepares the draft and stops there;
+- to answer objections in a sales conversation or to set up a referral programme. Those are separate workflow templates;
+- when the requester wants to publish before the customer has approved the text in writing. The workflow template prepares the draft and stops there;
 - to say whether a sector's advertising or professional rules allow a case study. The assistant gives no view on that; the requester checks with their own adviser.
 
 ## Roles

@@ -1,6 +1,6 @@
 # Launch checklist
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -298,4 +298,4 @@ details, do not repeat them and ask for them to be removed.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of a launch planning method; sources are listed in the capability's credits. Editorially reviewed. Tried once on its invented example in Claude on 9 November 2026; the record is kept with the template. Edited after that run, following the independent review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI as its own version of a launch planning method; sources are listed in the workflow template's credits. Editorially reviewed. Tried once on its invented example in Claude on 9 November 2026; the record is kept with the template. Edited after that run, following the independent review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

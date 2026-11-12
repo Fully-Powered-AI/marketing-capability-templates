@@ -1,6 +1,6 @@
 # Affiliate onboarding
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,8 +12,8 @@ Use it for each new creator, after the terms are agreed in writing and a person 
 
 Do not use it:
 
-- before terms are agreed in writing. This capability does not prepare, review or change the creator's agreement; the brand and its adviser handle that;
-- to set the programme rules: the discount, the commission, the payout path, the disclosure wording. Those are the owner's, settled once in the programme rules (the creator programme setup capability prepares them);
+- before terms are agreed in writing. This workflow template does not prepare, review or change the creator's agreement; the brand and its adviser handle that;
+- to set the programme rules: the discount, the commission, the payout path, the disclosure wording. Those are the owner's, settled once in the programme rules (the creator programme setup workflow template prepares them);
 - to make the code or the link. A person makes them in the store or the affiliate tool and supplies them as made;
 - to write what the creator may say about the products. That is the creator brief, sent with the pack;
 - to work out what a creator is owed. That is the commission statement.

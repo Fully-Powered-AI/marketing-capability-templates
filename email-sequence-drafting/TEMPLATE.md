@@ -1,6 +1,6 @@
 # Email sequence drafting
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,12 +12,12 @@ Use it when people have signed up, downloaded, registered or bought and nothing 
 
 Do not use it:
 
-- for people who never asked to hear from you. Writing to strangers is cold outreach, a separate piece of work with stricter rules, covered by the cold outreach sequence drafting capability;
+- for people who never asked to hear from you. Writing to strangers is cold outreach, a separate piece of work with stricter rules, covered by the cold outreach sequence drafting workflow template;
 - for a list that was bought, rented, scraped or borrowed. Holding an address is not a request;
 - for a single newsletter issue, an announcement to the whole list or a promotions calendar;
 - for receipts, password resets, payment failures and the other system messages your software sends;
 - to set up sending: the sending tool, the automation, the list, delivery or tracking. A person does that;
-- to plan tests or predict open, click or conversion rates. This capability states no rates and no benchmarks.
+- to plan tests or predict open, click or conversion rates. This workflow template states no rates and no benchmarks.
 
 ## Roles
 
@@ -62,7 +62,7 @@ Do not use it:
 ## Exceptions and stop conditions
 
 - **No facts page:** stop and ask for it.
-- **The people did not ask** (a bought, rented, scraped or borrowed list, or addresses gathered with no request): stop and draft nothing. Name the cold outreach sequence drafting capability as the separate piece of work for strangers.
+- **The people did not ask** (a bought, rented, scraped or borrowed list, or addresses gathered with no request): stop and draft nothing. Name the cold outreach sequence drafting workflow template as the separate piece of work for strangers.
 - **Asked to add a result, a figure, a customer quotation or name, a discount, a deadline or a low-stock warning your facts do not hold:** decline, name the line of your facts that would be needed, and list the request under "Left out on purpose".
 - **A customer quoted or named without permission on record:** leave it out and put the question to `[the role that holds customer permissions]`.
 - **Asked for a "last chance" email, a guilt line, or an email asking whether to stop writing:** decline. The sequence simply ends at its last email.

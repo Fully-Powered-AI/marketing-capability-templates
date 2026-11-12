@@ -4,7 +4,7 @@
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`), an AI model made by Anthropic
 - **Date:** 2026-11-09
 
-The inputs are the capability's invented example (Bramblewick Outdoor and its invented creators, handles, posts and counts). No client data was used. The assistant did not read the web: as in the example, the search notes were supplied as pasted text.
+The inputs are the workflow template's invented example (Bramblewick Outdoor and its invented creators, handles, posts and counts). No client data was used. The assistant did not read the web: as in the example, the search notes were supplied as pasted text.
 
 This is the second run on the example. The first run, by another model on the same day, gave one creator a different category signal from the example and found the template silent on the point; the template's instructions, its output format and the example's inputs were revised afterward, and this run was made on the revised versions. What the first run found and what changed are summarized at the end.
 
@@ -288,4 +288,4 @@ The first run's other ambiguities were not changed: the section "1. THE LONGLIST
 
 ## Shortcomings of this trial
 
-These were two runs by two models on one invented example, with no web access and no real creator database, and the second run was made by the model that revised the template. They show the instructions can be followed to a complete longlist whose counts reproduce from the example's inputs; they do not show how the capability behaves on live pages, with a login wall, a large export or a different assistant. The acceptance tests in the template (no topics, no redlines, differing headers, an instruction to message creators, an added word carrying a match, and so on) were not run here.
+These were two runs by two models on one invented example, with no web access and no real creator database, and the second run was made by the model that revised the template. They show the instructions can be followed to a complete longlist whose counts reproduce from the example's inputs; they do not show how the workflow template behaves on live pages, with a login wall, a large export or a different assistant. The acceptance tests in the template (no topics, no redlines, differing headers, an instruction to message creators, an added word carrying a match, and so on) were not run here.

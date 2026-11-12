@@ -1,6 +1,6 @@
 # Creator content reuse plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -325,4 +325,4 @@ repeat it; tell the user to remove it.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from the content reuse capability in its own Influencer Marketing set. Tried on its invented example in Claude on 9 November 2026, in four runs, with the procedure and the instruction block clarified after each of the first three; the record of the last is published with it. Not yet tested in a client environment.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI from the content reuse workflow template in its own Influencer Marketing set. Tried on its invented example in Claude on 9 November 2026, in four runs, with the procedure and the instruction block clarified after each of the first three; the record of the last is published with it. Not yet tested in a client environment.

@@ -2,7 +2,7 @@
 
 *Illustrative example with invented data.* Fernhollow Tea Co. is an invented online tea brand. Its founder, its creator program lead, the five creators, their handles, posts, counts and comments are all invented; no real company, person or account is described. Profile and post addresses use the reserved `.example` domain so that none points at a real account.
 
-Fernhollow's creator program lead has a longlist of five creators for a winter launch. First come the inputs the lead supplied, in full, then the shortlist the capability returned.
+Fernhollow's creator program lead has a longlist of five creators for a winter launch. First come the inputs the lead supplied, in full, then the shortlist the workflow template returned.
 
 ## The inputs
 
