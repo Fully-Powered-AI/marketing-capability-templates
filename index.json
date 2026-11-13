@@ -12,6 +12,14 @@
       "directory": "https://fullypowered.ai/workflows/affiliate-onboarding/"
     },
     {
+      "id": "brand-mentions-review",
+      "name": "Brand mentions and conversations review",
+      "version": "0.1.0",
+      "summary": "Your social media manager gets a dated digest of the week's collected mentions: customer questions, other talk about the brand, competitor references, category talk and irrelevant matches, each kept apart, with the mentions that need a reply listed oldest first and an owner beside each. It posts and replies to nothing.",
+      "path": "brand-mentions-review/",
+      "directory": "https://fullypowered.ai/workflows/brand-mentions-review/"
+    },
+    {
       "id": "brand-strategy-workshop",
       "name": "Brand strategy workshop",
       "version": "0.1.0",
@@ -204,6 +212,14 @@
       "directory": "https://fullypowered.ai/workflows/press-pitch-preparation/"
     },
     {
+      "id": "promotional-send-plan",
+      "name": "Promotional send plan",
+      "version": "0.1.0",
+      "summary": "Before a promotion goes out, the marketing lead gets one send plan across email and text: who can receive it under your own consent records, every send in order with its time, what it says and links to, the suppression lists applied, and what must be approved before the first send. Nothing is sent.",
+      "path": "promotional-send-plan/",
+      "directory": "https://fullypowered.ai/workflows/promotional-send-plan/"
+    },
+    {
       "id": "recorded-sessions-into-articles",
       "name": "Recorded sessions into articles",
       "version": "0.1.0",
@@ -218,6 +234,14 @@
       "summary": "Turn the recommendations your work already earns into a habit: when to ask, who on your own list to ask first and for what, what you give back, the words for each ask and the note an introducer forwards, and how every introduction is recorded. You send each message yourself.",
       "path": "referral-programme-design/",
       "directory": "https://fullypowered.ai/workflows/referral-programme-design/"
+    },
+    {
+      "id": "text-message-opt-in-check",
+      "name": "Text-message opt-in check",
+      "version": "0.1.0",
+      "summary": "Before a text campaign goes out, the marketing lead sees every number on the proposed list beside the opt-in your own records hold for it: where it was given, when, and the wording as recorded. Anyone with no recorded opt-in, or with a recorded opt-out, is held out and counted. A person decides who is sent to.",
+      "path": "text-message-opt-in-check/",
+      "directory": "https://fullypowered.ai/workflows/text-message-opt-in-check/"
     },
     {
       "id": "website-findability-audit",

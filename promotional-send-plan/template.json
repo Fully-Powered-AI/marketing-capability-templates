@@ -1,0 +1,48 @@
+{
+  "id": "promotional-send-plan",
+  "name": "Promotional send plan",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before a promotion goes out, the marketing lead gets one send plan across email and text: who can receive it under your own consent records, every send in order with its time, what it says and links to, the suppression lists applied, and what must be approved before the first send. Nothing is sent.",
+  "directory": "https://fullypowered.ai/workflows/promotional-send-plan/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content",
+    "functions/advertising-and-lead-generation"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/consumer-brands",
+    "industries/hospitality",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "email-sequence-drafting",
+    "promotional-text-campaign-plan",
+    "campaign-audience-check"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for planning one promotion across email and text for approval: the fixed inputs, the channel-by-channel sorting against the company's own consent records and suppression lists, the send calendar and briefs, the timing and frequency checks, and the sign-offs before the first send."
+    }
+  ]
+}

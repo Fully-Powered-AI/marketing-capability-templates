@@ -1,0 +1,46 @@
+{
+  "id": "brand-mentions-review",
+  "name": "Brand mentions and conversations review",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Your social media manager gets a dated digest of the week's collected mentions: customer questions, other talk about the brand, competitor references, category talk and irrelevant matches, each kept apart, with the mentions that need a reply listed oldest first and an owner beside each. It posts and replies to nothing.",
+  "directory": "https://fullypowered.ai/workflows/brand-mentions-review/",
+  "primary_function": "functions/marketing-and-content",
+  "functions": [
+    "functions/marketing-and-content"
+  ],
+  "industries": [
+    "industries/consumer-brands",
+    "industries/software-technology",
+    "industries/hospitality",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "competitor-profile-from-public-pages",
+    "customer-feedback-themes",
+    "customer-reply-drafting"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of marketing work: the brand conversation review it describes for social and community teams."
+    }
+  ]
+}
